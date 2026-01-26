@@ -1,18 +1,18 @@
 {
-  "Name": "Portal",
+  "Name": "Lessons",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Quantum Riddler"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Splash Portal"]
+      "Cards": ["Accumulate Wisdom"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Enduring Vitality"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Temur Battlecrier"]
     },
     {
       "Type": "DoesNotContain",
@@ -37,6 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Iridescent Vinelasher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
     }
   ]
 }

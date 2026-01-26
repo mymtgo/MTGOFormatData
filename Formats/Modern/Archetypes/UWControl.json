@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Ajani, Nacatl Pariah"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Phelia, Exuberant Shepherd"]
     },
     {
@@ -53,6 +57,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Martyr of Sands"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
     },
     {
       "Type": "DoesNotContain",
