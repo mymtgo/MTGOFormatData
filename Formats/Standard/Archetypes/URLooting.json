@@ -1,5 +1,5 @@
 {
-  "Name": "Midrange",
+  "Name": "Looting",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -7,12 +7,44 @@
       "Cards": ["Quantum Riddler"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Winternight Stories"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Winternight Stories", "Tiger-Seal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Eddymurk Crab"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kaito, Bane of Nightmares"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Slickshot Show-Off"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Elusive Otter"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Splash Portal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Shiko, Paragon of the Way"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jeskai Revelation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monument to Endurance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday Excruciator"]
     },
     {
       "Type": "DoesNotContain",

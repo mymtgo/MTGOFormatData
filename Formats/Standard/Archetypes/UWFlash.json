@@ -1,39 +1,40 @@
 {
-  "Name": "Blink",
+  "Name": "Flash",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Quantum Riddler"]
+      "Cards": ["Aang, Swift Savior"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Phelia, Exuberant Shepherd"]
+      "Cards": ["Aven Interrupter"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Territorial Kavu"]
+      "Cards": ["Momo, Friendly Flier"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Birthing Ritual"]
+      "Cards": ["Kaito, Bane of Nightmares"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Goryo's Vengeance"]
+      "Cards": ["Sarkhan, Dragon Ascendant"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Ajani, Nacatl Pariah"]
+      "Cards": ["Doc Aurlock, Grizzled Genius"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Goblin Bombardment"]
+      "Cards": ["Jeskai Revelation"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Overlord of the Balemurk"]
+      "Cards": ["Enduring Vitality"]
     }
   ]
 }
+
 

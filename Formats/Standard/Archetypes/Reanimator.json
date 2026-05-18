@@ -4,7 +4,19 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Zombify", "Bringer of the Last Gift", "Superior Spider-Man"]
+      "Cards": ["Zombify", "Bringer of the Last Gift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Badgermole Cub"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sultai Rhythm"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday Excruciator"]
     },
     {
       "Type": "DoesNotContain",

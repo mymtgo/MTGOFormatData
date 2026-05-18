@@ -8,6 +8,18 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Splash Portal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monument to Endurance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday Excruciator"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Nurturing Pixie"]
     },
     {

@@ -1,22 +1,26 @@
 {
-  "Name": "Midrange",
+  "Name": "Monument",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Archenemy's Charm"]
+      "Cards": ["Monument to Endurance"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Kaito, Bane of Nightmares"]
+      "Cards": ["Accumulate Wisdom"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enduring Vitality"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Temur Battlecrier"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Nurturing Pixie"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Doomsday Excruciator"]
     },
     {
       "Type": "DoesNotContain",
@@ -37,6 +41,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Iridescent Vinelasher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
     }
   ]
 }
