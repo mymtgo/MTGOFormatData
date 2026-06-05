@@ -16,10 +16,6 @@
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Psychic Frog"]
-    },
-    {
-      "Type": "DoesNotContainMainboard",
       "Cards": ["Indomitable Creativity"]
     }
   ]
