@@ -1,0 +1,102 @@
+{
+    "Name": "Naya Terragedon",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mana Leak"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Black Vise"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Weathered Wayfarer"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Psychatog"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Fire // Ice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "Name": "Mono-Blue Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Cloud of Faeries"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Frantic Search"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Helm of Awakening"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lotus Petal"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Enchantress's Presence"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Corpse Dance"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Drifting Djinn"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Aluren"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Buried Alive"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Careful Study"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Altar of Dementia"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Burning Wish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        }
+    ]
+}

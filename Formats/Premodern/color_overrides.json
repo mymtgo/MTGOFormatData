@@ -1,0 +1,29 @@
+{
+    "Lands": [
+        {
+            "Name": "City of Brass",
+            "Color": "WUBRG"
+        },
+        {
+            "Name": "Gemstone Mine",
+            "Color": "WUBRG"
+        },
+        {
+            "Name": "Grand Coliseum",
+            "Color": "WUBRG"
+        },
+        {
+            "Name": "Tarnished Citadel",
+            "Color": "WUBRG"
+        },
+        {
+            "Name": "Reflecting Pool",
+            "Color": "WUBRG"
+        },
+        {
+            "Name": "Forbidden Orchard",
+            "Color": "WUBRG"
+        }
+    ],
+    "NonLands": null
+}

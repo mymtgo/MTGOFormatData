@@ -1,0 +1,48 @@
+{
+    "Name": "The Rock",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Pernicious Deed"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wall of Roots"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Yavimaya Elder"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wall of Blossoms"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Veteran Explorer"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Chromatic Sphere"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Name": "Azorius",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lightning Angel"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fire // Ice"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Miscalculation"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Black Vise"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        }
+    ]
+}

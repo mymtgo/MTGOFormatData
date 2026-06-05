@@ -1,0 +1,36 @@
+{
+    "Name": "Gruul Goblins",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Goblin Lackey"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Goblin Matron"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Goblin Piledriver"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Goblin Ringleader"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Goblin Goon"
+            ]
+        }
+    ]
+}

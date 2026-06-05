@@ -1,0 +1,90 @@
+{
+    "Name": "Iggy Pop",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Brain Freeze"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Cabal Ritual"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Ill-Gotten Gains"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hypnotic Specter"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Animate Dead"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Corpse Dance"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Supplicant"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Reanimate"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Buried Alive"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Careful Study"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Burning Wish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Carnophage"
+            ]
+        }
+    ]
+}

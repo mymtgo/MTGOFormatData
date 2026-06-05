@@ -1,0 +1,84 @@
+{
+    "Name": "Bant",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Black Vise"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Chain of Vapor"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fire // Ice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Psychatog"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Fact or Fiction"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
+            ]
+        }
+    ]
+}

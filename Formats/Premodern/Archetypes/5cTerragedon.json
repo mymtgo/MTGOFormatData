@@ -1,0 +1,96 @@
+{
+    "Name": "5c Terragedon",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Vindicate"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Nimble Mongoose"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Decree of Justice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cataclysm"
+            ]
+        }
+    ]
+}

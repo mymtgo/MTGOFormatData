@@ -1,0 +1,96 @@
+{
+    "Name": "Sultai",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Buried Alive"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Krosan Cloudscraper"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lim-Dûl's Vault"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hypnotic Specter"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Animate Dead"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Intuition"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Brain Freeze"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Supplicant"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Reanimate"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exhume"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Careful Study"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Burning Wish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Carnophage"
+            ]
+        }
+    ]
+}

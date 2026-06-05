@@ -1,0 +1,66 @@
+{
+    "Name": "WB",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Eternal Dragon"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Twisted Abomination"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Animate Dead"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Enlightened Tutor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Goblin Trenches"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cursed Scroll"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Decree of Justice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Humility"
+            ]
+        }
+    ]
+}

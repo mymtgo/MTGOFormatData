@@ -1,0 +1,90 @@
+{
+    "Name": "Reanimator",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Reanimate"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Akroma, Angel of Wrath"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Careful Study"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hypnotic Specter"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Multani, Maro-Sorcerer"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Corpse Dance"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Brain Freeze"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Supplicant"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Basking Rootwalla"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Buried Alive"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Burning Wish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Carnophage"
+            ]
+        }
+    ]
+}

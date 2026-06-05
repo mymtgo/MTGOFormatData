@@ -1,0 +1,48 @@
+{
+    "Name": "Naya Survival Welder",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Cephalid Illusionist"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Eladamri's Call"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Hermit Druid"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Nomads en-Kor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Shaman en-Kor"
+            ]
+        }
+    ]
+}

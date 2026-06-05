@@ -1,0 +1,102 @@
+{
+    "Name": "4c Threshold",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Nimble Mongoose"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Portent"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Black Vise"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Psychatog"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Impulse"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
+            ]
+        }
+    ]
+}

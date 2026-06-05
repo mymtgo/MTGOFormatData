@@ -1,0 +1,36 @@
+{
+    "Name": "5c Enchantress",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Argothian Enchantress"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Enchantress's Presence"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wild Growth"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Words of Wind"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Mirri's Guile"
+            ]
+        }
+    ]
+}

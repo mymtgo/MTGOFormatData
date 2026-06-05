@@ -1,0 +1,78 @@
+{
+    "Name": "Gruul Survival Welder",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Goblin Welder"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Birds of Paradise"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Tangle Wire"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Aluren"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Arrogant Wurm"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Recurring Nightmare"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hermit Druid"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Blastoderm"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cephalid Illusionist"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Equilibrium"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Tinker"
+            ]
+        }
+    ]
+}

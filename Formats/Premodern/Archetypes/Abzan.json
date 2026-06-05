@@ -1,0 +1,36 @@
+{
+    "Name": "Abzan",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Eladamri's Call"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Shaman en-Kor"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Worthy Cause"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Daru Spiritualist"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cephalid Illusionist"
+            ]
+        }
+    ]
+}

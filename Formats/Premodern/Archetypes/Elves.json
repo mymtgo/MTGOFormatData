@@ -1,0 +1,36 @@
+{
+    "Name": "Elves",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fyndhorn Elves"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Llanowar Elves"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Multani's Acolyte"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Priest of Titania"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Birds of Paradise"
+            ]
+        }
+    ]
+}

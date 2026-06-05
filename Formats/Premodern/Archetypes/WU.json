@@ -1,0 +1,78 @@
+{
+    "Name": "WU",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Frantic Search"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Merchant Scroll"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Opt"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Enchantress's Presence"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Chain of Vapor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lotus Petal"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Psychatog"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
+            ]
+        }
+    ]
+}

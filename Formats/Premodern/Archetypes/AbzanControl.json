@@ -1,0 +1,54 @@
+{
+    "Name": "Abzan Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Vindicate"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Decree of Justice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        }
+    ]
+}

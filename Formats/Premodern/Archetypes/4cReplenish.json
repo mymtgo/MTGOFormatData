@@ -1,0 +1,60 @@
+{
+    "Name": "4c Replenish",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Attunement"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Enlightened Tutor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Goblin Trenches"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Sphere of Resistance"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Frantic Search"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Eternal Dragon"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Altar of Dementia"
+            ]
+        }
+    ]
+}

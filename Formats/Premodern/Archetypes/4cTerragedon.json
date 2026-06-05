@@ -1,0 +1,84 @@
+{
+    "Name": "4c Terragedon",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Nimble Mongoose"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Vindicate"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Decree of Justice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        }
+    ]
+}

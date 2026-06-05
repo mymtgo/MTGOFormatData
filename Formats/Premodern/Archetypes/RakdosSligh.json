@@ -1,0 +1,30 @@
+{
+    "Name": "Rakdos Sligh",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fireblast"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Flame Rift"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Grim Lavamancer"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Incinerate"
+            ]
+        }
+    ]
+}

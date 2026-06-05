@@ -1,0 +1,96 @@
+{
+    "Name": "Selesnya Terragedon",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Call of the Herd"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Cataclysm"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Nimble Mongoose"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Tireless Tribe"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Veteran Explorer"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Ravenous Rats"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Birds of Paradise"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Sphere of Resistance"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        }
+    ]
+}

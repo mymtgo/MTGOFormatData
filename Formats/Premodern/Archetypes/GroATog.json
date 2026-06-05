@@ -1,0 +1,108 @@
+{
+    "Name": "Gro-A-Tog",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Gush"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Terravore"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Nimble Mongoose"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Black Vise"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Chain of Vapor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Fact or Fiction"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Frantic Search"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
+            ]
+        }
+    ]
+}

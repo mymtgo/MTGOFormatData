@@ -1,0 +1,54 @@
+{
+    "Name": "Domain",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Chromatic Sphere"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Evasive Action"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fact or Fiction"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Pernicious Deed"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Wall of Roots"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cabal Ritual"
+            ]
+        }
+    ]
+}

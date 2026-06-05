@@ -1,0 +1,120 @@
+{
+    "Name": "Corpse Dance",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Corpse Dance"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Intuition"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lotus Petal"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hypnotic Specter"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Animate Dead"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Brain Freeze"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Supplicant"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cloud of Faeries"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Akroma, Angel of Wrath"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Krosan Cloudscraper"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exhume"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Careful Study"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Altar of Dementia"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Elvish Spirit Guide"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cabal Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Carnophage"
+            ]
+        }
+    ]
+}

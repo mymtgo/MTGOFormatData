@@ -1,0 +1,48 @@
+{
+    "Name": "Bant Enchantress",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Enchantress's Presence"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Argothian Enchantress"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fertile Ground"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Frantic Search"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cloud of Faeries"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        }
+    ]
+}

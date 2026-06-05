@@ -1,0 +1,78 @@
+{
+    "Name": "Mono-Red Land Destruction",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mogg Fanatic"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Stone Rain"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Avalanche Riders"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Enlightened Tutor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Call of the Herd"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Powder Keg"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        }
+    ]
+}

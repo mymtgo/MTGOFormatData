@@ -1,0 +1,66 @@
+{
+    "Name": "GWU Survival FEB",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Birds of Paradise"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Cephalid Illusionist"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Hermit Druid"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Nomads en-Kor"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Aluren"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Blastoderm"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Goblin Welder"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Equilibrium"
+            ]
+        }
+    ]
+}

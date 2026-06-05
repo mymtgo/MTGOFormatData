@@ -1,0 +1,36 @@
+{
+    "Name": "Devourer Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Phyrexian Devourer"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Altar of Dementia"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Defense Grid"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fling"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lotus Petal"
+            ]
+        }
+    ]
+}

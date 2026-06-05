@@ -1,0 +1,72 @@
+{
+    "Name": "BRG",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mulch"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Nimble Mongoose"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Vindicate"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Meddling Mage"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Call of the Herd"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        }
+    ]
+}

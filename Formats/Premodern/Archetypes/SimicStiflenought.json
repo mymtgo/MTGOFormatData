@@ -1,0 +1,84 @@
+{
+    "Name": "Simic Stiflenought",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Stifle"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Foil"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Gush"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Mox Diamond"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hermit Druid"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Standstill"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Black Vise"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Exalted Angel"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Psychatog"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Fire // Ice"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
+            ]
+        }
+    ]
+}

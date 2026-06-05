@@ -1,0 +1,36 @@
+{
+    "Name": "Azorius Replenish",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Attunement"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Opalescence"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Parallax Wave"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        }
+    ]
+}

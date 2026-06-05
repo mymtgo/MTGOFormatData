@@ -1,0 +1,54 @@
+{
+    "Name": "Jeskai Replenish",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Replenish"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Attunement"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Frantic Search"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Opalescence"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oath of Druids"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Enchantress's Presence"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cloud of Faeries"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        }
+    ]
+}

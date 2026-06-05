@@ -1,0 +1,42 @@
+{
+    "Name": "Tireless Tribe",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Tireless Tribe"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Arrogant Wurm"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Basking Rootwalla"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Patrol Hound"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Circular Logic"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Careful Study"
+            ]
+        }
+    ]
+}

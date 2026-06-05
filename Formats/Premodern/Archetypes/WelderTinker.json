@@ -1,0 +1,48 @@
+{
+    "Name": "Welder Tinker",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Goblin Welder"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Tinker"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mind Stone"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Tangle Wire"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cursed Scroll"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Enlightened Tutor"
+            ]
+        }
+    ]
+}

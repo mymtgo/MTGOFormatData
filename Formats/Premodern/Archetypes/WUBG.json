@@ -1,0 +1,30 @@
+{
+    "Name": "WUBG",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Barkhide Mauler"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Bloated Toad"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Darkwatch Elves"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Disciple of Grace"
+            ]
+        }
+    ]
+}

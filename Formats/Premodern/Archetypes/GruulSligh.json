@@ -1,0 +1,36 @@
+{
+    "Name": "Gruul Sligh",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Ball Lightning"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fireblast"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Grim Lavamancer"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Incinerate"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Flame Rift"
+            ]
+        }
+    ]
+}

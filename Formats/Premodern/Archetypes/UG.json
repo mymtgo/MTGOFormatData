@@ -1,0 +1,78 @@
+{
+    "Name": "UG",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Birds of Paradise"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Equilibrium"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Multani's Acolyte"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Aluren"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Arrogant Wurm"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Recurring Nightmare"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hermit Druid"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Priest of Titania"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Blastoderm"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Goblin Welder"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cephalid Illusionist"
+            ]
+        }
+    ]
+}
