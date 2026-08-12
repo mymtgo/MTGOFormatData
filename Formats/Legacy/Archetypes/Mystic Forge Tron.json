@@ -1,18 +1,18 @@
 {
-  "Name": "Soldier Stompy",
+  "Name": "Mystic Forge Tron",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Valiant Veteran"]
+      "Cards": ["Mystic Forge"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Thalia, Guardian of Thraben"]
+      "Cards": ["Urza's Mine"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Chrome Mox"]
+      "Cards": ["Urza's Tower"]
     }
   ]
 }

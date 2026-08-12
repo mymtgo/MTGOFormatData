@@ -1,14 +1,14 @@
 {
-  "Name": "Stiflenought",
+  "Name": "Azorius Momo",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Phyrexian Dreadnought"]
+      "Cards": ["Momo, Friendly Flier"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Stifle", "Hushbringer", "Doorkeeper Thrull"]
+      "Cards": ["Starfield Shepherd", "Sage of the Skies"]
     }
   ]
 }

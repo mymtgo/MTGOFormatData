@@ -1,14 +1,14 @@
 {
-  "Name": "Mortality Combo",
+  "Name": "Izzet Cauldron",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Shadow of Mortality"]
+      "Cards": ["Agatha's Soul Cauldron"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Soul Spike"]
+      "Cards": ["Vivi Ornitier"]
     }
   ]
 }

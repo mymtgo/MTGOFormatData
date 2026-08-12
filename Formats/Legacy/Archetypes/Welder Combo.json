@@ -1,10 +1,14 @@
 {
-  "Name": "Cephalid breakfast",
+  "Name": "Welder Combo",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Cephalid Illusionist"]
+      "Cards": ["Goblin Welder"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Engineer"]
     },
     {
       "Type": "DoesNotContain",

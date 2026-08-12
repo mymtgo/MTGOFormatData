@@ -1,14 +1,14 @@
 {
-  "Name": "Mortality Combo",
+  "Name": "Food Chain Goblins",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Shadow of Mortality"]
+      "Cards": ["Food Chain"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Soul Spike"]
+      "Cards": ["Goblin Lackey"]
     }
   ]
 }
