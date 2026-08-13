@@ -1,33 +1,27 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Land Destruction",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Stone Rain"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Earthquake"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Lightning Bolt"
             ]
         },
         {
             "Type": "InMainboard",
-            "Cards": [
-                "Gush"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": [
                 "Mox Diamond"
             ]
@@ -35,19 +29,31 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Call of the Herd"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Counterspell"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Fireblast"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Phyrexian Scuta"
             ]
         }
     ]

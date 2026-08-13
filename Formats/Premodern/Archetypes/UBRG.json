@@ -1,7 +1,13 @@
 {
     "Name": "U-B-R-G",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Bladewing's Thrall"
+            ]
+        },
         {
             "Type": "InMainboard",
             "Cards": [
@@ -21,15 +27,9 @@
             ]
         },
         {
-            "Type": "InMainboard",
-            "Cards": [
-                "Lotus Petal"
-            ]
-        },
-        {
             "Type": "DoesNotContain",
             "Cards": [
-                "Stifle"
+                "Smother"
             ]
         },
         {
@@ -65,43 +65,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cloud of Faeries"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Akroma, Angel of Wrath"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Krosan Cloudscraper"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Altar of Dementia"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Burning Wish"
             ]
         },
         {

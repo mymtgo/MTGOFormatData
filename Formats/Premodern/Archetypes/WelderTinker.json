@@ -1,6 +1,6 @@
 {
     "Name": "Welder Tinker",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -17,25 +17,19 @@
         {
             "Type": "InMainboard",
             "Cards": [
-                "Mind Stone"
+                "Tangle Wire"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Tangle Wire"
+                "Mind Stone"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Survival of the Fittest"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cursed Scroll"
             ]
         },
         {

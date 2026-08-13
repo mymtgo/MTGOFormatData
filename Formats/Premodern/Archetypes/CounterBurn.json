@@ -1,6 +1,6 @@
 {
     "Name": "Counter burn",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -35,85 +35,25 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Lightning Angel"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Standstill"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Stifle"
+                "Portent"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Black Vise"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Enlightened Tutor"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Gush"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Forbid"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Call of the Herd"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Chain of Vapor"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Pillage"
+                "Stone Rain"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Mogg Fanatic"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Devastating Dreams"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Exalted Angel"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Dark Ritual"
             ]
         },
         {
@@ -126,12 +66,6 @@
             "Type": "DoesNotContain",
             "Cards": [
                 "Impulse"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Frantic Search"
             ]
         },
         {

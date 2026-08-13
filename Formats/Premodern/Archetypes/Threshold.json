@@ -1,83 +1,89 @@
 {
-    "Name": "BG",
+    "Name": "Threshold",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Animate Dead"
+                "Counterspell"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Dark Ritual"
+                "Mox Diamond"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Exhume"
+                "Nimble Mongoose"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Multani, Maro-Sorcerer"
+                "Portent"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Smother"
+                "Terravore"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Hypnotic Specter"
+                "Stifle"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Corpse Dance"
+                "Standstill"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Gerrard's Verdict"
+                "Devastating Dreams"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Brain Freeze"
+                "Accumulated Knowledge"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Careful Study"
+                "Stone Rain"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Bladewing's Thrall"
+                "Lightning Bolt"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Eternal Dragon"
+                "Psychatog"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Carnophage"
+                "Impulse"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Zombie Infestation"
             ]
         }
     ]

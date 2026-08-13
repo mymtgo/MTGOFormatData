@@ -1,0 +1,23 @@
+{
+    "Name": "Midrange",
+    "IncludeColorInName": true,
+    "CommonCards": [
+        "Sylvan Library",
+        "Call of the Herd",
+        "Wild Mongrel",
+        "Basking Rootwalla",
+        "Ravenous Baloth",
+        "Wall of Blossoms",
+        "Genesis",
+        "Birds of Paradise",
+        "Werebear",
+        "Llanowar Elves",
+        "Arrogant Wurm",
+        "Deranged Hermit",
+        "Wall of Roots",
+        "Krosan Tusker",
+        "Nimble Mongoose",
+        "Quirion Dryad",
+        "Pernicious Deed"
+    ]
+}

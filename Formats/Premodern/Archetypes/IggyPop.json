@@ -1,17 +1,11 @@
 {
     "Name": "Iggy Pop",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
                 "Brain Freeze"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Cabal Ritual"
             ]
         },
         {
@@ -24,6 +18,18 @@
             "Type": "InMainboard",
             "Cards": [
                 "Ill-Gotten Gains"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Opt"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Smother"
             ]
         },
         {
@@ -53,31 +59,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Reanimate"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Buried Alive"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Burning Wish"
+                "Bladewing's Thrall"
             ]
         },
         {

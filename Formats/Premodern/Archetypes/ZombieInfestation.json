@@ -1,6 +1,6 @@
 {
     "Name": "Zombie Infestation",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -41,49 +41,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Stifle"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Black Vise"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Fire // Ice"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Lightning Bolt"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Force Spike"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Exalted Angel"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Psychatog"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Frantic Search"
             ]
         }
     ]

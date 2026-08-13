@@ -1,53 +1,65 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Hermit Druid",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Hermit Druid"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Survival of the Fittest"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Birds of Paradise"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Unearth"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Mox Diamond"
+                "Aluren"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Recurring Nightmare"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Fyndhorn Elves"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Goblin Welder"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Cephalid Illusionist"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Equilibrium"
             ]
         }
     ]

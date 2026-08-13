@@ -1,6 +1,6 @@
 {
     "Name": "WUBG",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",

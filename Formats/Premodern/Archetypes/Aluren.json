@@ -1,53 +1,53 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Aluren",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Aluren"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Birds of Paradise"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Raven Familiar"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Man-o'-War"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Mox Diamond"
+                "Recurring Nightmare"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Hermit Druid"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Goblin Welder"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Equilibrium"
             ]
         }
     ]

@@ -1,53 +1,47 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Storm",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Cloud of Faeries"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Frantic Search"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Helm of Awakening"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Lotus Petal"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Mox Diamond"
+                "Corpse Dance"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Reanimate"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Zombie Infestation"
+                "Burning Wish"
             ]
         }
     ]

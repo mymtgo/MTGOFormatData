@@ -1,0 +1,16 @@
+{
+    "Name": "Prison",
+    "IncludeColorInName": true,
+    "CommonCards": [
+        "Sphere of Resistance",
+        "Armageddon",
+        "Cataclysm",
+        "Tsabo's Web",
+        "Humility",
+        "Masticore",
+        "Black Vise",
+        "Weathered Wayfarer",
+        "Winter's Grasp",
+        "Thermokarst"
+    ]
+}

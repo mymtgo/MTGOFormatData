@@ -1,17 +1,11 @@
 {
     "Name": "Reanimator",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
                 "Reanimate"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Akroma, Angel of Wrath"
             ]
         },
         {
@@ -23,13 +17,19 @@
         {
             "Type": "InMainboard",
             "Cards": [
-                "Dark Ritual"
+                "Exhume"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lotus Petal"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Hypnotic Specter"
+                "Basking Rootwalla"
             ]
         },
         {
@@ -47,43 +47,25 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Gerrard's Verdict"
+                "Cephalid Illusionist"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Brain Freeze"
+                "Cloud of Faeries"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Basking Rootwalla"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Buried Alive"
+                "Bladewing's Thrall"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Burning Wish"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Carnophage"
             ]
         }
     ]

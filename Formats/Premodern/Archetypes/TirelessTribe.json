@@ -1,11 +1,17 @@
 {
     "Name": "Tireless Tribe",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
                 "Tireless Tribe"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wild Mongrel"
             ]
         },
         {
@@ -17,19 +23,7 @@
         {
             "Type": "InMainboard",
             "Cards": [
-                "Basking Rootwalla"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Patrol Hound"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Circular Logic"
+                "Glory"
             ]
         },
         {

@@ -1,35 +1,29 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Control",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Decree of Justice"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Eternal Dragon"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Wrath of God"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Mox Diamond"
+                "Gerrard's Verdict"
             ]
         },
         {
@@ -41,13 +35,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Hypnotic Specter"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Twisted Abomination"
             ]
         }
     ]

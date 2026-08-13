@@ -1,6 +1,6 @@
 {
     "Name": "Zombies",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -59,31 +59,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Reanimate"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Buried Alive"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Burning Wish"
+                "Bladewing's Thrall"
             ]
         }
     ]

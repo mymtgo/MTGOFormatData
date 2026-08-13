@@ -1,29 +1,29 @@
 {
-    "Name": "Devourer Combo",
+    "Name": "Goblins",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Phyrexian Devourer"
+                "Goblin Lackey"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Altar of Dementia"
+                "Goblin Warchief"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Defense Grid"
+                "Goblin Piledriver"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Fling"
+                "Goblin Ringleader"
             ]
         }
     ]

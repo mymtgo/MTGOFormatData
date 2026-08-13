@@ -1,53 +1,47 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Sligh",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Lightning Bolt"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Grim Lavamancer"
             ]
         },
         {
             "Type": "InMainboard",
+            "Cards": [
+                "Mogg Fanatic"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Fireblast"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": [
                 "Counterspell"
             ]
         },
         {
-            "Type": "InMainboard",
+            "Type": "DoesNotContain",
             "Cards": [
-                "Gush"
+                "Stone Rain"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Mox Diamond"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Fire // Ice"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Zombie Infestation"
             ]
         }
     ]

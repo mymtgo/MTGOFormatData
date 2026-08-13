@@ -1,0 +1,20 @@
+{
+    "Name": "Control",
+    "IncludeColorInName": true,
+    "CommonCards": [
+        "Counterspell",
+        "Fact or Fiction",
+        "Mana Leak",
+        "Accumulated Knowledge",
+        "Standstill",
+        "Prohibit",
+        "Absorb",
+        "Deep Analysis",
+        "Flash of Insight",
+        "Portent",
+        "Impulse",
+        "Wrath of God",
+        "Decree of Justice",
+        "Exalted Angel"
+    ]
+}

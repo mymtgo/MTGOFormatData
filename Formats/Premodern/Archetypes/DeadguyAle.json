@@ -1,13 +1,7 @@
 {
     "Name": "Deadguy Ale",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Dark Ritual"
-            ]
-        },
         {
             "Type": "InMainboard",
             "Cards": [
@@ -23,19 +17,25 @@
         {
             "Type": "InMainboard",
             "Cards": [
+                "Dark Ritual"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
                 "Vindicate"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Terravore"
+                "Decree of Justice"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Decree of Justice"
+                "Ravenous Rats"
             ]
         },
         {
@@ -59,49 +59,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Ravenous Rats"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Brain Freeze"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Lightning Bolt"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Reanimate"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Buried Alive"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Burning Wish"
+                "Bladewing's Thrall"
             ]
         },
         {

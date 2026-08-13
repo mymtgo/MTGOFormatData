@@ -1,53 +1,65 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Recurring Survival",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Survival of the Fittest"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Recurring Nightmare"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Birds of Paradise"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Wall of Blossoms"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Mox Diamond"
+                "Aluren"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Hermit Druid"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Fyndhorn Elves"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Goblin Welder"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Pernicious Deed"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Equilibrium"
             ]
         }
     ]

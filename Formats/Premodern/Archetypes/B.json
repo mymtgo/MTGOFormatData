@@ -1,6 +1,6 @@
 {
     "Name": "B",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -29,6 +29,12 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
+                "Smother"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
                 "Animate Dead"
             ]
         },
@@ -47,49 +53,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Withered Wretch"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Brain Freeze"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Lightning Bolt"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Reanimate"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Buried Alive"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Burning Wish"
+                "Bladewing's Thrall"
             ]
         },
         {

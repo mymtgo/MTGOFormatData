@@ -1,6 +1,6 @@
 {
     "Name": "WB",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -29,31 +29,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Replenish"
+                "Decree of Justice"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Dark Ritual"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Goblin Trenches"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cursed Scroll"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Decree of Justice"
             ]
         },
         {

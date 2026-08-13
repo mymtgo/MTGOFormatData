@@ -1,6 +1,6 @@
 {
     "Name": "Elves",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -17,13 +17,31 @@
         {
             "Type": "InMainboard",
             "Cards": [
-                "Multani's Acolyte"
+                "Survival of the Fittest"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Priest of Titania"
+                "Wirewood Symbiote"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Recurring Nightmare"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Hermit Druid"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Goblin Welder"
             ]
         },
         {

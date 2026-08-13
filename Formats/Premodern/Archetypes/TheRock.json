@@ -1,11 +1,17 @@
 {
     "Name": "The Rock",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
                 "Pernicious Deed"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wall of Blossoms"
             ]
         },
         {
@@ -21,21 +27,9 @@
             ]
         },
         {
-            "Type": "InMainboard",
-            "Cards": [
-                "Wall of Blossoms"
-            ]
-        },
-        {
             "Type": "DoesNotContain",
             "Cards": [
                 "Survival of the Fittest"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Veteran Explorer"
             ]
         },
         {

@@ -1,53 +1,35 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Stiflenought",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Stifle"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Phyrexian Dreadnought"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Vision Charm"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Portent"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Mox Diamond"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Fire // Ice"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Zombie Infestation"
             ]
         }
     ]

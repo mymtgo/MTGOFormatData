@@ -1,0 +1,26 @@
+{
+    "Name": "Aggro",
+    "IncludeColorInName": true,
+    "CommonCards": [
+        "Lightning Bolt",
+        "Mogg Fanatic",
+        "Grim Lavamancer",
+        "Jackal Pup",
+        "Incinerate",
+        "Seal of Fire",
+        "Fireblast",
+        "Lava Dart",
+        "Cursed Scroll",
+        "Nantuko Shade",
+        "Knight of Stromgald",
+        "Goblin Lackey",
+        "Goblin Piledriver",
+        "Goblin Warchief",
+        "Goblin Ringleader",
+        "Goblin Matron",
+        "Siege-Gang Commander",
+        "Gempalm Incinerator",
+        "Skirk Prospector",
+        "Rancor"
+    ]
+}

@@ -1,29 +1,29 @@
 {
-    "Name": "Devourer Combo",
+    "Name": "Enchantress",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Phyrexian Devourer"
+                "Enchantress's Presence"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Altar of Dementia"
+                "Argothian Enchantress"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Defense Grid"
+                "Wild Growth"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Fling"
+                "Seal of Cleansing"
             ]
         }
     ]

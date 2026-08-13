@@ -1,53 +1,41 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Madness",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Basking Rootwalla"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Wild Mongrel"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Careful Study"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Arrogant Wurm"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Mox Diamond"
+                "Tireless Tribe"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Fire // Ice"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Zombie Infestation"
+                "Reanimate"
             ]
         }
     ]

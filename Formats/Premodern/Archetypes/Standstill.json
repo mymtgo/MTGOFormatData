@@ -1,17 +1,11 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Standstill",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Accumulated Knowledge"
+                "Standstill"
             ]
         },
         {
@@ -23,7 +17,13 @@
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Impulse"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Decree of Justice"
             ]
         },
         {
@@ -35,7 +35,19 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Eternal Dragon"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Psychatog"
             ]
         },
         {

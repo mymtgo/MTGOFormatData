@@ -1,6 +1,6 @@
 {
     "Name": "W-U-B-R-G",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -35,25 +35,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Lightning Angel"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Stifle"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Black Vise"
             ]
         },
         {
@@ -66,12 +48,6 @@
             "Type": "DoesNotContain",
             "Cards": [
                 "Chromatic Sphere"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Exalted Angel"
             ]
         },
         {

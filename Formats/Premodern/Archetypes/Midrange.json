@@ -1,53 +1,71 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Midrange",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Smother"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Hypnotic Specter"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Counterspell"
+                "Dark Ritual"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Ravenous Rats"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Mox Diamond"
+                "Innocent Blood"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
+                "Animate Dead"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Corpse Dance"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Gerrard's Verdict"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Brain Freeze"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Bladewing's Thrall"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Carnophage"
             ]
         }
     ]

@@ -1,6 +1,6 @@
 {
     "Name": "Corpse Dance",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -29,7 +29,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Stifle"
+                "Smother"
             ]
         },
         {
@@ -59,31 +59,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Dark Supplicant"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Cloud of Faeries"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Akroma, Angel of Wrath"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Krosan Cloudscraper"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Exhume"
             ]
         },
         {
@@ -95,19 +71,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Altar of Dementia"
+                "Bladewing's Thrall"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Elvish Spirit Guide"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cabal Ritual"
             ]
         },
         {

@@ -1,13 +1,7 @@
 {
     "Name": "GWU Survival FEB",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Birds of Paradise"
-            ]
-        },
         {
             "Type": "InMainboard",
             "Cards": [
@@ -27,9 +21,9 @@
             ]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "InMainboard",
             "Cards": [
-                "Aluren"
+                "Reanimate"
             ]
         },
         {
@@ -41,25 +35,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Stifle"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Blastoderm"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Goblin Welder"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Equilibrium"
+                "Careful Study"
             ]
         }
     ]

@@ -1,53 +1,59 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Ponza",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Lightning Bolt"
             ]
         },
         {
             "Type": "InMainboard",
-            "Cards": [
-                "Accumulated Knowledge"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Counterspell"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Gush"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": [
                 "Mox Diamond"
             ]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "InMainboard",
             "Cards": [
-                "Standstill"
+                "Phyrexian Scuta"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Pillage"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Terravore"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Counterspell"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Devastating Dreams"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Earthquake"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Grim Lavamancer"
             ]
         }
     ]

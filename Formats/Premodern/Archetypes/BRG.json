@@ -1,6 +1,6 @@
 {
     "Name": "BRG",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -29,7 +29,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Vindicate"
+                "Call of the Herd"
             ]
         },
         {
@@ -41,25 +41,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Meddling Mage"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Call of the Herd"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Accumulated Knowledge"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Oath of Druids"
+                "Stone Rain"
             ]
         },
         {

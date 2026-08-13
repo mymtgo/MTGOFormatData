@@ -1,6 +1,6 @@
 {
     "Name": "Gro-A-Tog",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -17,19 +17,13 @@
         {
             "Type": "InMainboard",
             "Cards": [
-                "Gush"
+                "Portent"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Mox Diamond"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Terravore"
+                "Gush"
             ]
         },
         {
@@ -41,25 +35,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Stifle"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Black Vise"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Devastating Dreams"
+                "Standstill"
             ]
         },
         {
@@ -71,31 +53,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Oath of Druids"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Chain of Vapor"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Exalted Angel"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Fact or Fiction"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Frantic Search"
             ]
         },
         {

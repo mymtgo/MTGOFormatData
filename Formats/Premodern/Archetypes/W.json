@@ -1,6 +1,6 @@
 {
     "Name": "W",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -24,24 +24,6 @@
             "Type": "InMainboard",
             "Cards": [
                 "Mind Stone"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Replenish"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Goblin Trenches"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Icy Manipulator"
             ]
         },
         {

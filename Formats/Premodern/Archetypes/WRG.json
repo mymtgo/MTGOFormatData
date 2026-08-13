@@ -1,6 +1,6 @@
 {
     "Name": "WRG",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -29,12 +29,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Stifle"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
                 "Corpse Dance"
             ]
         },
@@ -47,25 +41,7 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Buried Alive"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Altar of Dementia"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cabal Ritual"
+                "Reanimate"
             ]
         }
     ]

@@ -1,29 +1,29 @@
 {
-    "Name": "Devourer Combo",
+    "Name": "Replenish",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Phyrexian Devourer"
+                "Replenish"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Altar of Dementia"
+                "Attunement"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Defense Grid"
+                "Parallax Wave"
             ]
         },
         {
             "Type": "InMainboard",
             "Cards": [
-                "Fling"
+                "Opalescence"
             ]
         }
     ]

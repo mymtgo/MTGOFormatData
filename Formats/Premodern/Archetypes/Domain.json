@@ -1,6 +1,6 @@
 {
     "Name": "Domain",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -29,25 +29,13 @@
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Wall of Roots"
+                "Wall of Blossoms"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
                 "Counterspell"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cabal Ritual"
             ]
         }
     ]

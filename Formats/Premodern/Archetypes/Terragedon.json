@@ -1,53 +1,47 @@
 {
-    "Name": "UB Psychatog",
+    "Name": "Terragedon",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": [
-                "Psychatog"
+                "Terravore"
             ]
         },
         {
             "Type": "InMainboard",
-            "Cards": [
-                "Accumulated Knowledge"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Counterspell"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Gush"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": [
                 "Mox Diamond"
             ]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "InMainboard",
             "Cards": [
-                "Standstill"
+                "Sylvan Library"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Call of the Herd"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Fire // Ice"
+                "Devastating Dreams"
             ]
         },
         {
             "Type": "DoesNotContain",
             "Cards": [
-                "Zombie Infestation"
+                "Stone Rain"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Lightning Bolt"
             ]
         }
     ]
