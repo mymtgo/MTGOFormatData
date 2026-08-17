@@ -18,11 +18,48 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Semblance Anvil"]
+          "Cards": [
+            "Semblance Anvil"
+          ]
         },
         {
           "Type": "InMainboard",
-          "Cards": ["Myr Retriever"]
+          "Cards": [
+            "Myr Retriever"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Tron",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": [
+            "Force of Negation",
+            "Otawara, Soaring City",
+            "Stock Up",
+            "Portent of Calamity"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eldrazi Tron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": [
+            "Eldrazi Temple"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": [
+            "Force of Negation"
+          ]
         }
       ]
     }
