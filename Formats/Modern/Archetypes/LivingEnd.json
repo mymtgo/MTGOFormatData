@@ -4,11 +4,32 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Living End"]
+      "Cards": [
+        "Living End"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Street Wraith","Desert Cerodon", "Oliphaunt", "Generous Ent"]
+      "Cards": [
+        "Street Wraith",
+        "Desert Cerodon",
+        "Oliphaunt",
+        "Generous Ent"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Balemurk Living End",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": [
+            "Overlord of the Balemurk"
+          ]
+        }
+      ]
     }
   ]
 }

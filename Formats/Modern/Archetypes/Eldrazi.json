@@ -4,7 +4,9 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Eldrazi Temple"]
+      "Cards": [
+        "Eldrazi Temple"
+      ]
     },
     {
       "Type": "TwoOrMoreInMainboard",
@@ -23,19 +25,27 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Thalia, Guardian of Thraben"]
+      "Cards": [
+        "Thalia, Guardian of Thraben"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Urza's Tower"]
+      "Cards": [
+        "Urza's Tower"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Hardened Scales"]
+      "Cards": [
+        "Hardened Scales"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Coretapper"]
+      "Cards": [
+        "Coretapper"
+      ]
     }
   ],
   "Variants": [
@@ -45,7 +55,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Through the Breach"]
+          "Cards": [
+            "Through the Breach"
+          ]
         }
       ]
     },
@@ -55,7 +67,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Basking Broodscale"]
+          "Cards": [
+            "Basking Broodscale"
+          ]
         }
       ]
     },
@@ -65,23 +79,54 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Emrakul, the Promised End"]
+          "Cards": [
+            "Emrakul, the Promised End"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Basking Broodscale"]
+          "Cards": [
+            "Basking Broodscale"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Through the Breach"]
+          "Cards": [
+            "Through the Breach"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Fatal Push"]
+          "Cards": [
+            "Fatal Push"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Eldrazi Linebreaker"]
+          "Cards": [
+            "Eldrazi Linebreaker"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": [
+            "Slumbering Trudge"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eldrazi Trudge",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": [
+            "Green Sun's Zenith",
+            "Fanatic of Rhonas",
+            "Slumbering Trudge",
+            "Disciple of Freyalise // Garden of Freyalise"
+          ]
         }
       ]
     },
@@ -91,11 +136,15 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Eldrazi Linebreaker"]
+          "Cards": [
+            "Eldrazi Linebreaker"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Basking Broodscale"]
+          "Cards": [
+            "Basking Broodscale"
+          ]
         }
       ]
     },
@@ -105,11 +154,15 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Fatal Push"]
+          "Cards": [
+            "Fatal Push"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Basking Broodscale"]
+          "Cards": [
+            "Basking Broodscale"
+          ]
         }
       ]
     }

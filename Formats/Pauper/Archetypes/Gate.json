@@ -4,11 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Basilisk Gate"]
+      "Cards": [
+        "Basilisk Gate"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Moment's Peace"]
+      "Cards": [
+        "Moment's Peace"
+      ]
     }
   ],
   "Variants": [
@@ -18,7 +22,36 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Squadron Hawk"]
+          "Cards": [
+            "Squadron Hawk"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Sneaky Gates",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": [
+            "Sneaky Snacker",
+            "Pursue the Past"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Selesnya Gates",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": [
+            "Armadillo Cloak",
+            "Gatecreeper Vine",
+            "Selesnya Guildgate"
+          ]
         }
       ]
     }

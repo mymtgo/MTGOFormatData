@@ -1,48 +1,63 @@
 {
-    "Name": "Sligh",
-    "IncludeColorInName": true,
-    "Conditions": [
+  "Name": "Sligh",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Lightning Bolt"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Grim Lavamancer"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Mogg Fanatic"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Fireblast"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Counterspell"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Stone Rain"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Mox Diamond"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Burn",
+      "IncludeColorInName": true,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": [
-                "Lightning Bolt"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Grim Lavamancer"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Mogg Fanatic"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Fireblast"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Counterspell"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Stone Rain"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Mox Diamond"
-            ]
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": [
+            "Black Vise",
+            "Flame Rift"
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
