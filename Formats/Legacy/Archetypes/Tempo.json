@@ -5,6 +5,8 @@
     { "Type": "InMainboard", "Cards": ["Stifle"] },
     { "Type": "InMainboard", "Cards": ["Daze"] },
     { "Type": "InMainboard", "Cards": ["Swords to Plowshares"] },
-    { "Type": "InMainboard", "Cards": ["Brainstorm"] }
+    { "Type": "InMainboard", "Cards": ["Brainstorm"] },
+    { "Type": "DoesNotContain", "Cards": ["Phyrexian Dreadnought"] },
+    { "Type": "DoesNotContain", "Cards": ["Delver of Secrets"] }
   ]
 }

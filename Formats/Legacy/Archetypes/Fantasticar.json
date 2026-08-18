@@ -3,6 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     { "Type": "InMainboard", "Cards": ["The Fantasticar"] },
-    { "Type": "InMainboard", "Cards": ["Lotus Petal"] }
+    { "Type": "InMainboard", "Cards": ["Lotus Petal"] },
+    { "Type": "InMainboard", "Cards": ["Mishra's Bauble"] },
+    { "Type": "DoesNotContain", "Cards": ["Doomsday"] }
   ]
 }

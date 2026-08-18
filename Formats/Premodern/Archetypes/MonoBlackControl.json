@@ -3,7 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     { "Type": "InMainboard", "Cards": ["Dark Ritual"] },
-    { "Type": "TwoOrMoreInMainboard", "Cards": ["Graveborn Muse", "Hypnotic Specter", "Withered Wretch", "Plaguebearer"] },
+    { "Type": "InMainboard", "Cards": ["Graveborn Muse"] },
+    { "Type": "OneOrMoreInMainboard", "Cards": ["Withered Wretch", "Plaguebearer", "Diabolic Edict"] },
     { "Type": "DoesNotContain", "Cards": ["Contamination"] }
   ]
 }
