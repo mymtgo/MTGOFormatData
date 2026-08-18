@@ -20,7 +20,10 @@
         "Tainted Indulgence",
         "Thrilling Discovery",
         "Cathartic Reunion",
-        "Scrapwork Mutt"
+        "Scrapwork Mutt",
+        "Unearth",
+        "Faithless Looting",
+        "Thought Scour"
       ]
     },
     {
@@ -47,6 +50,24 @@
             "Thought Scour",
             "Abhorrent Oculus",
             "Unearth",
+            "Faithless Looting"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Oculus",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": [
+            "Abhorrent Oculus"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": [
             "Faithless Looting"
           ]
         }

@@ -1,0 +1,14 @@
+{
+  "Name": "Mako Blitz",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Marauding Mako"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vengevine"]
+    }
+  ]
+}
