@@ -56,9 +56,35 @@
           ]
         },
         {
+          "Type": "InMainboard",
+          "Cards": [
+            "Glaring Fleshraker"
+          ]
+        },
+        {
           "Type": "DoesNotContain",
           "Cards": [
             "Force of Negation"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Tron",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": [
+            "Sowing Mycospawn",
+            "Boseiju, Who Endures",
+            "Forest"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": [
+            "Eldrazi Temple"
           ]
         }
       ]
