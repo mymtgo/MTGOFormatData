@@ -8,11 +8,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Steelshaper's Gift","Stoneforge Mystic"]
+      "Cards": ["Steelshaper's Gift","Stoneforge Mystic","Puresteel Paladin"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Sigarda's Aid"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Sigarda's Aid","Leyline Axe"]
     }
   ]
 }
