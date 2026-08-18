@@ -19,6 +19,10 @@
         "Fear of Missing Out",
         "Detective's Phoenix"
       ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Vengevine"]
     }
   ]
 }
