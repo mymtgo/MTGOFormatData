@@ -1,0 +1,8 @@
+{
+  "Name": "Cutter",
+  "IncludeColorInName": true,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Cori-Steel Cutter"] },
+    { "Type": "InMainboard", "Cards": ["Brainstorm"] }
+  ]
+}

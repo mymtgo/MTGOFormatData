@@ -1,0 +1,11 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Tamiyo, Inquisitive Student"] },
+    { "Type": "InMainboard", "Cards": ["Thoughtseize"] },
+    { "Type": "InMainboard", "Cards": ["Orcish Bowmasters"] },
+    { "Type": "DoesNotContain", "Cards": ["Reanimate"] },
+    { "Type": "DoesNotContain", "Cards": ["The Fantasticar"] }
+  ]
+}

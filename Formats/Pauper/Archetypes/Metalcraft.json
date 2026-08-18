@@ -1,0 +1,8 @@
+{
+  "Name": "Metalcraft",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Ardent Recruit"] },
+    { "Type": "InMainboard", "Cards": ["Ancient Den"] }
+  ]
+}

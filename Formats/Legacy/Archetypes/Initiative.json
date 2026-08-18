@@ -1,0 +1,8 @@
+{
+  "Name": "Initiative",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Undermountain Adventurer"] },
+    { "Type": "InMainboard", "Cards": ["Ancient Tomb"] }
+  ]
+}

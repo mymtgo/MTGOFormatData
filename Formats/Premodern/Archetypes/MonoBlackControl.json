@@ -1,0 +1,9 @@
+{
+  "Name": "Mono-Black Control",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Dark Ritual"] },
+    { "Type": "TwoOrMoreInMainboard", "Cards": ["Graveborn Muse", "Hypnotic Specter", "Withered Wretch", "Plaguebearer"] },
+    { "Type": "DoesNotContain", "Cards": ["Contamination"] }
+  ]
+}

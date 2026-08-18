@@ -1,0 +1,8 @@
+{
+  "Name": "Land Destruction",
+  "IncludeColorInName": true,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Cleansing Wildfire"] },
+    { "Type": "InMainboard", "Cards": ["Erode"] }
+  ]
+}

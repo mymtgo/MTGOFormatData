@@ -1,0 +1,8 @@
+{
+  "Name": "Veteran Rector",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Academy Rector"] },
+    { "Type": "InMainboard", "Cards": ["Veteran Explorer"] }
+  ]
+}

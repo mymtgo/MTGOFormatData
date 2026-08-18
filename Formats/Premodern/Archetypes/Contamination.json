@@ -1,0 +1,8 @@
+{
+  "Name": "Contamination",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Contamination"] },
+    { "Type": "InMainboard", "Cards": ["Nether Spirit"] }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "Fantasticar",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["The Fantasticar"] },
+    { "Type": "InMainboard", "Cards": ["Lotus Petal"] }
+  ]
+}

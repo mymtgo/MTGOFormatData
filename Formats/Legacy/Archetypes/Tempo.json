@@ -1,0 +1,10 @@
+{
+  "Name": "Tempo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Stifle"] },
+    { "Type": "InMainboard", "Cards": ["Daze"] },
+    { "Type": "InMainboard", "Cards": ["Swords to Plowshares"] },
+    { "Type": "InMainboard", "Cards": ["Brainstorm"] }
+  ]
+}

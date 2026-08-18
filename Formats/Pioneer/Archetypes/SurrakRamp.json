@@ -1,0 +1,8 @@
+{
+  "Name": "Surrak Ramp",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Surrak, Elusive Hunter"] },
+    { "Type": "InMainboard", "Cards": ["Ouroboroid"] }
+  ]
+}

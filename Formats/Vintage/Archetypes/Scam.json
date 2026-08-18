@@ -7,9 +7,9 @@
             "Cards": ["Grief","Reanimate","Entomb","Troll of Khazad-dûm"]
         }, 
         {
-            "Type": "InMainboard",
-            "Cards": ["Force of Will"]
-        }, 
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Force of Will", "Dark Ritual"]
+        },
         {
             "Type": "DoesNotContainSideboard",
             "Cards": ["Lurrus of the Dream-Den"]

@@ -3,9 +3,10 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": [
-                "Accumulated Knowledge"
+                "Accumulated Knowledge",
+                "Opt"
             ]
         },
         {

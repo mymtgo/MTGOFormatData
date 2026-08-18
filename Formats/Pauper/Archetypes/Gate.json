@@ -3,9 +3,10 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
+      "Type": "OneOrMoreInMainboard",
       "Cards": [
-        "Basilisk Gate"
+        "Basilisk Gate",
+        "Heap Gate"
       ]
     },
     {

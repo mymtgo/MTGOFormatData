@@ -1,0 +1,10 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    { "Type": "OneOrMoreInMainboard", "Cards": ["Flow State", "Forth Eorlingas!"] },
+    { "Type": "InMainboard", "Cards": ["Swords to Plowshares"] },
+    { "Type": "InMainboard", "Cards": ["Force of Will"] },
+    { "Type": "DoesNotContain", "Cards": ["Stifle"] }
+  ]
+}

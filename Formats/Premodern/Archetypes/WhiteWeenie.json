@@ -1,0 +1,9 @@
+{
+  "Name": "White Weenie",
+  "IncludeColorInName": false,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Mother of Runes"] },
+    { "Type": "OneOrMoreInMainboard", "Cards": ["Ramosian Sergeant", "Whipcorder", "Savannah Lions"] },
+    { "Type": "InMainboard", "Cards": ["Swords to Plowshares"] }
+  ]
+}

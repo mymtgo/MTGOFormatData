@@ -1,0 +1,8 @@
+{
+  "Name": "Legends",
+  "IncludeColorInName": true,
+  "Conditions": [
+    { "Type": "InMainboard", "Cards": ["Plaza of Heroes"] },
+    { "Type": "InMainboard", "Cards": ["Raffine, Scheming Seer"] }
+  ]
+}
