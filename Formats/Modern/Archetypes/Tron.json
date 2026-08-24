@@ -56,12 +56,6 @@
           ]
         },
         {
-          "Type": "InMainboard",
-          "Cards": [
-            "Glaring Fleshraker"
-          ]
-        },
-        {
           "Type": "DoesNotContain",
           "Cards": [
             "Force of Negation"
