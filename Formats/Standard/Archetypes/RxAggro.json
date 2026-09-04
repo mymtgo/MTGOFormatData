@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Imodane's Recruiter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dáin's Company"]
     }
   ]
 }

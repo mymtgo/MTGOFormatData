@@ -1,0 +1,27 @@
+{
+  "Name": "Dwarves",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Dáin's Company",
+        "Kíli the Resourceful",
+        "Thorin, Mountain-king",
+        "Giott, King of the Dwarves"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Dwarven Mauler",
+        "Dwalin, Weaponmaster",
+        "Bofur, Reliable Guardian",
+        "Dáin Ironfoot",
+        "Iron Hills Blacksmith",
+        "Dwarven Mattock",
+        "The Lonely Mountain"
+      ]
+    }
+  ]
+}
