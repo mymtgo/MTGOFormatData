@@ -98,12 +98,6 @@
         {
           "Type": "DoesNotContain",
           "Cards": [
-            "Fatal Push"
-          ]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": [
             "Eldrazi Linebreaker"
           ]
         },
@@ -162,6 +156,12 @@
           "Type": "DoesNotContain",
           "Cards": [
             "Basking Broodscale"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": [
+            "Emrakul, the Promised End"
           ]
         }
       ]
