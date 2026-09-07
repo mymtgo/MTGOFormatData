@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Enigmatic Incarnation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Indomitable Creativity"]
     }
   ],
   "Variants": [
