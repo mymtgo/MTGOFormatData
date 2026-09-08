@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Vizier of Remedies"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Walking Ballista"]
     }
   ]
 }
