@@ -1,0 +1,20 @@
+{
+  "Name": "Sacrifice",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Obsessive Pursuit"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "The Sackville-Bagginses",
+        "Biotech Specialist",
+        "Umbral Collar Zealot",
+        "Susurian Voidborn",
+        "Greedy Freebooter"
+      ]
+    }
+  ]
+}
