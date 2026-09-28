@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Wild Nacatl", "Territorial Kavu"]
+      "Cards": ["Wild Nacatl", "Territorial Kavu", "Leyline of the Guildpact"]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -26,18 +26,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
-    }
-  ],
-  "Variants": [
-    {
-      "Name": "BlueZoo",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Force of Negation", "Counterspell"]
-        }
-      ]
     }
   ]
 }
