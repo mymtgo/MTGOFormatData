@@ -3,12 +3,12 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Quantum Riddler"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Quantum Riddler", "Ephemerate"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Phelia, Exuberant Shepherd"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Phelia, Exuberant Shepherd", "Starfield Shepherd"]
     },
     {
       "Type": "DoesNotContain",

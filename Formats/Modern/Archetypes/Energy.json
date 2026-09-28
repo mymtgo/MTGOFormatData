@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Ajani, Nacatl Pariah"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ajani, Nacatl Pariah", "Guide of Souls"]
     },
     {
       "Type": "DoesNotContain",

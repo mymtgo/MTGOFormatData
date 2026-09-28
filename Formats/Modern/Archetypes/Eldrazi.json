@@ -3,9 +3,11 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
+      "Type": "OneOrMoreInMainboard",
       "Cards": [
-        "Eldrazi Temple"
+        "Eldrazi Temple",
+        "Eldrazi Linebreaker",
+        "Slumbering Trudge"
       ]
     },
     {
@@ -20,7 +22,10 @@
         "Glaring Fleshraker",
         "Nulldrifter",
         "Kozilek's Command",
-        "Emrakul, the Promised End"
+        "Emrakul, the Promised End",
+        "Eldrazi Linebreaker",
+        "It That Heralds the End",
+        "Wastescape Battlemage"
       ]
     },
     {

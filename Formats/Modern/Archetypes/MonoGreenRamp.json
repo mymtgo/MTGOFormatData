@@ -1,0 +1,18 @@
+{
+  "Name": "Ramp",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Leyline of Abundance"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Badgermole Cub", "Ouroboroid"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Devoted Druid"]
+    }
+  ]
+}
