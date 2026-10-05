@@ -1,0 +1,42 @@
+{
+  "Name": "Blink",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eternal Witness"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Quantum Riddler", "Ephemerate"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Phelia, Exuberant Shepherd", "Starfield Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Territorial Kavu"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ajani, Nacatl Pariah"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Bombardment"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Overlord of the Balemurk"]
+    }
+  ]
+}
