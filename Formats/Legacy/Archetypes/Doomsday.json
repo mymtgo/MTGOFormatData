@@ -3,8 +3,32 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Doomsday"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Doomsday", "Edge of Autumn", "Unearth"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Show and Tell"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Infernal Tutor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dark Depths"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Balustrade Spy"]
     }
   ]
 }
