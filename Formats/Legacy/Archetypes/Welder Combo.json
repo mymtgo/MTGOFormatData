@@ -7,8 +7,8 @@
       "Cards": ["Goblin Welder"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Goblin Engineer"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Goblin Engineer", "Emry, Lurker of the Loch"]
     },
     {
       "Type": "DoesNotContain",

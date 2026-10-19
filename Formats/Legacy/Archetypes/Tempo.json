@@ -3,10 +3,12 @@
   "IncludeColorInName": true,
   "Conditions": [
     { "Type": "InMainboard", "Cards": ["Stifle"] },
-    { "Type": "InMainboard", "Cards": ["Daze"] },
+    { "Type": "OneOrMoreInMainboard", "Cards": ["Daze", "Tamiyo, Inquisitive Student"] },
     { "Type": "InMainboard", "Cards": ["Swords to Plowshares"] },
     { "Type": "InMainboard", "Cards": ["Brainstorm"] },
     { "Type": "DoesNotContain", "Cards": ["Phyrexian Dreadnought"] },
-    { "Type": "DoesNotContain", "Cards": ["Delver of Secrets"] }
+    { "Type": "DoesNotContain", "Cards": ["Delver of Secrets"] },
+    { "Type": "DoesNotContain", "Cards": ["Up the Beanstalk"] },
+    { "Type": "DoesNotContain", "Cards": ["Monastery Mentor"] }
   ]
 }

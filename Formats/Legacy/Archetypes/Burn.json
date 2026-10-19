@@ -7,8 +7,8 @@
       "Cards": ["Chain Lightning", "Rift Bolt", "Skewer the Critics"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Fireblast"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Fireblast", "Lava Spike", "Price of Progress"]
     },
     {
       "Type": "DoesNotContain",

@@ -3,12 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Guide of Souls"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Ocelot Pride"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Guide of Souls", "Ocelot Pride", "Ajani, Nacatl Pariah", "Static Prison", "Amped Raptor"]
     }
   ]
 }

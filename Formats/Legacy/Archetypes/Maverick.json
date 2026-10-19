@@ -1,0 +1,26 @@
+{
+  "Name": "Maverick",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Green Sun's Zenith"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Noble Hierarch"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Knight of the Reliquary", "Gaddock Teeg", "Collector Ouphe", "Keen-Eyed Curator"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dark Depths"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Guide of Souls"]
+    }
+  ]
+}
