@@ -12,8 +12,8 @@
       ]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Boomerang Basics"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Boomerang Basics", "Wild Ride", "Sleight of Hand", "Secret Identity"]
     },
     {
       "Type": "DoesNotContain",

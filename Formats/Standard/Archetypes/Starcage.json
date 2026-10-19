@@ -1,0 +1,18 @@
+{
+  "Name": "Artifacts",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pinnacle Starcage"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["United Battlefront", "Cryogen Relic", "Simulacrum Synthesizer", "Repurposing Bay"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tithing Blade"]
+    }
+  ]
+}

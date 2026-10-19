@@ -1,0 +1,10 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Professor Dellian Fel", "Requiting Hex", "Rakshasa's Bargain", "Maelstrom Pulse", "Bitter Triumph"]
+    }
+  ]
+}

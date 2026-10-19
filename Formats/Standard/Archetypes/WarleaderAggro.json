@@ -1,0 +1,14 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Stadium Headliner", "Voice of Victory", "The Last Ronin's Technique"]
+    }
+  ]
+}

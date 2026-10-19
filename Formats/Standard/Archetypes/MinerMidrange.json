@@ -1,0 +1,14 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Forsaken Miner"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Requiting Hex", "Corpses of the Lost", "Iridescent Vinelasher"]
+    }
+  ]
+}

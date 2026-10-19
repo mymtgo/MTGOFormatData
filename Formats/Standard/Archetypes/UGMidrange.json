@@ -1,5 +1,5 @@
 {
-  "Name": "Ouroboroid",
+  "Name": "Cub",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -7,8 +7,8 @@
       "Cards": ["Ouroboroid"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Badgermole Cub"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Badgermole Cub", "Surrak, Elusive Hunter", "Leatherhead, Swamp Stalker"]
     },
     {
       "Type": "DoesNotContain",
