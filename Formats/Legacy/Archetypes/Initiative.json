@@ -1,8 +1,8 @@
 {
   "Name": "Initiative",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
-    { "Type": "InMainboard", "Cards": ["Undermountain Adventurer"] },
+    { "Type": "OneOrMoreInMainboard", "Cards": ["Undermountain Adventurer", "Seasoned Dungeoneer", "Caves of Chaos Adventurer", "White Plume Adventurer"] },
     { "Type": "InMainboard", "Cards": ["Ancient Tomb"] }
   ]
 }
