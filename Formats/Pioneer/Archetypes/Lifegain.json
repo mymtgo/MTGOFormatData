@@ -1,0 +1,22 @@
+{
+  "Name": "Lifegain",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Haliya, Guided by Light"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Hinterland Sanctifier",
+        "Enlightened Confidant",
+        "Heliod, Sun-Crowned",
+        "Prosperous Innkeeper",
+        "Voice of the Blessed"
+      ]
+    }
+  ]
+}

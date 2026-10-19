@@ -1,0 +1,21 @@
+{
+  "Name": "Graveyard",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Prized Amalgam"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Bloodghast",
+        "Narcomoeba",
+        "Stitcher's Supplier",
+        "Darklight Phoenix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Dragons",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Sarkhan, Dragon Ascendant",
+        "Draconic Roar",
+        "Magmatic Hellkite",
+        "Shivan Devastator",
+        "Smaug, the Magnificent"
+      ]
+    }
+  ]
+}

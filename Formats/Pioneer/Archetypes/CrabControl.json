@@ -1,0 +1,19 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Sunderflock"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Eddymurk Crab",
+        "Hearth Elemental"
+      ]
+    }
+  ]
+}
