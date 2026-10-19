@@ -1,26 +1,39 @@
 {
-    "Name": "Graveyard",
-    "IncludeColorInName": true,
-    "Conditions": [
+  "Name": "Graveyard",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Lotleth Giant",
+        "Dread Return"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Balustrade Spy",
+        "Winding Way",
+        "Lead the Stampede",
+        "Saruli Caretaker",
+        "Stinkweed Imp",
+        "Scrapwork Mutt",
+        "Satyr Wayfinder"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Spy Combo",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Lotleth Giant"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Dread Return"]
+          "Type": "InMainboard",
+          "Cards": [
+            "Balustrade Spy"
+          ]
         }
-    ],
-    "Variants": [
-        {
-            "Name": "Spy Combo",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Balustrade Spy"]
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ]
 }

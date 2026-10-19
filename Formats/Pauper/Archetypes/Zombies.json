@@ -1,0 +1,16 @@
+{
+  "Name": "Zombies",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Gempalm Polluter",
+        "Engine Rat",
+        "Embalmed Brawler",
+        "Shepherd of Rot",
+        "Ghoulcaller's Chant"
+      ]
+    }
+  ]
+}

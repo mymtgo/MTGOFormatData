@@ -1,0 +1,12 @@
+{
+  "Name": "Petitioners",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Persistent Petitioners"
+      ]
+    }
+  ]
+}

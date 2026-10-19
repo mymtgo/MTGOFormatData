@@ -1,18 +1,30 @@
 {
-    "Name": "Mono G Aggro",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Rancor"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Burning-Tree Emissary","River Boa"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Nest Invader"]
-        }
-    ]
+  "Name": "Mono G Aggro",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Rancor"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Burning-Tree Emissary",
+        "River Boa",
+        "Nettle Sentinel",
+        "Young Wolf",
+        "Skarrgan Pit-Skulk"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Nest Invader",
+        "Quirion Ranger",
+        "Savage Swipe"
+      ]
+    }
+  ]
 }

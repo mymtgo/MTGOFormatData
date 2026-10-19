@@ -3,40 +3,67 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Writhing Chrysalis"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Writhing Chrysalis",
+        "Freed from the Real"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Arbor Elf", "Arboreal Grazer", "Llanowar Elves"]
+      "Cards": [
+        "Arbor Elf",
+        "Arboreal Grazer",
+        "Llanowar Elves"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Pestilence"]
+      "Cards": [
+        "Pestilence"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Khalni Garden"]
+      "Cards": [
+        "Khalni Garden"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Trailblazer's Torch"]
+      "Cards": [
+        "Trailblazer's Torch"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Goliath Paladin"]
+      "Cards": [
+        "Goliath Paladin"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Mwonvuli Acid-Moss"]
+      "Cards": [
+        "Mwonvuli Acid-Moss"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Overgrown Battlement"]
+      "Cards": [
+        "Overgrown Battlement"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Priest of Titania"]
+      "Cards": [
+        "Priest of Titania"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Balustrade Spy"
+      ]
     }
   ]
 }

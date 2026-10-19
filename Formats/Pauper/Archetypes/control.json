@@ -4,7 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Counterspell", "Force Spike"]
+      "Cards": [
+        "Counterspell",
+        "Force Spike",
+        "Tolarian Terror"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -17,27 +21,39 @@
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Delver of Secrets"]
-    },
-    {
-      "Type" : "DoesNotContain",
-      "Cards": ["Innocent Blood"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Myr Enforcer"]
+      "Cards": [
+        "Delver of Secrets"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Basilisk Gate"]
+      "Cards": [
+        "Innocent Blood"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Ephemerate"]
+      "Cards": [
+        "Myr Enforcer"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Spellstutter Sprite"]
+      "Cards": [
+        "Basilisk Gate"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Ephemerate"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Spellstutter Sprite"
+      ]
     }
   ],
   "Variants": [
@@ -47,7 +63,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Serpentine Curve"]
+          "Cards": [
+            "Serpentine Curve"
+          ]
         }
       ]
     },
@@ -57,7 +75,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Tolarian Terror"]
+          "Cards": [
+            "Tolarian Terror"
+          ]
         }
       ]
     }
