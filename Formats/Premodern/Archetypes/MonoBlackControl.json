@@ -2,9 +2,37 @@
   "Name": "Mono-Black Control",
   "IncludeColorInName": false,
   "Conditions": [
-    { "Type": "InMainboard", "Cards": ["Dark Ritual"] },
-    { "Type": "InMainboard", "Cards": ["Graveborn Muse"] },
-    { "Type": "OneOrMoreInMainboard", "Cards": ["Withered Wretch", "Plaguebearer", "Diabolic Edict"] },
-    { "Type": "DoesNotContain", "Cards": ["Contamination"] }
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Dark Ritual"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Graveborn Muse"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Withered Wretch",
+        "Plaguebearer",
+        "Diabolic Edict"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Contamination"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Rotlung Reanimator"
+      ]
+    }
   ]
 }

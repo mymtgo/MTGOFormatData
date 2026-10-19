@@ -1,0 +1,20 @@
+{
+  "Name": "Stasis",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Stasis"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Black Vise",
+        "Chain of Vapor",
+        "Gush"
+      ]
+    }
+  ]
+}

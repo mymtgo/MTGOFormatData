@@ -1,48 +1,48 @@
 {
-    "Name": "WRG",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Burning Wish"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Elvish Spirit Guide"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Lion's Eye Diamond"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Lotus Petal"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Corpse Dance"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Cloud of Faeries"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Reanimate"
-            ]
-        }
-    ]
+  "Name": "Burning Wish Combo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Burning Wish"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Elvish Spirit Guide"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Lion's Eye Diamond"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Lotus Petal"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Corpse Dance"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Cloud of Faeries"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Reanimate"
+      ]
+    }
+  ]
 }

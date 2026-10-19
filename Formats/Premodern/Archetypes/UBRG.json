@@ -1,78 +1,78 @@
 {
-    "Name": "U-B-R-G",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Bladewing's Thrall"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Buried Alive"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Dark Ritual"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Exhume"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Smother"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Hypnotic Specter"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Multani, Maro-Sorcerer"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Corpse Dance"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Gerrard's Verdict"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Brain Freeze"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Careful Study"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Carnophage"
-            ]
-        }
-    ]
+  "Name": "Reanimator",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Bladewing's Thrall"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Buried Alive"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Dark Ritual"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Exhume"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Smother"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Hypnotic Specter"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Multani, Maro-Sorcerer"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Corpse Dance"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Gerrard's Verdict"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Brain Freeze"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Careful Study"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Carnophage"
+      ]
+    }
+  ]
 }

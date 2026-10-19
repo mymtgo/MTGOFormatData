@@ -1,48 +1,48 @@
 {
-    "Name": "WB",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Eternal Dragon"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Twisted Abomination"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Animate Dead"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Enlightened Tutor"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Decree of Justice"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Dark Ritual"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Humility"
-            ]
-        }
-    ]
+  "Name": "Reanimator",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Eternal Dragon"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Twisted Abomination"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Animate Dead"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Enlightened Tutor"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Decree of Justice"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Dark Ritual"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Humility"
+      ]
+    }
+  ]
 }

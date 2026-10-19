@@ -1,72 +1,72 @@
 {
-    "Name": "B",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Dark Ritual"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Hypnotic Specter"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Innocent Blood"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Pox"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Smother"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Animate Dead"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Corpse Dance"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Gerrard's Verdict"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Brain Freeze"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Bladewing's Thrall"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Carnophage"
-            ]
-        }
-    ]
+  "Name": "Pox",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Dark Ritual"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Hypnotic Specter"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Innocent Blood"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Pox"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Smother"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Animate Dead"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Corpse Dance"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Gerrard's Verdict"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Brain Freeze"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Bladewing's Thrall"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Carnophage"
+      ]
+    }
+  ]
 }

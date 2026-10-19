@@ -1,0 +1,20 @@
+{
+  "Name": "Clerics",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Rotlung Reanimator"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Priest of Gix",
+        "Dark Supplicant",
+        "Cabal Archon"
+      ]
+    }
+  ]
+}

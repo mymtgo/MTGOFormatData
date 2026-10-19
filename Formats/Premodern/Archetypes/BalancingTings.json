@@ -1,0 +1,20 @@
+{
+  "Name": "Balancing Tings",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Balancing Act"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Lion's Eye Diamond",
+        "Burning Wish",
+        "Archaeological Dig"
+      ]
+    }
+  ]
+}

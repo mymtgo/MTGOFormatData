@@ -1,0 +1,42 @@
+{
+  "Name": "The Rock",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Call of the Herd",
+        "Tempting Wurm",
+        "Pernicious Deed",
+        "Wall of Blossoms"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Cabal Therapy",
+        "Duress",
+        "Ravenous Rats"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Llanowar Wastes",
+        "Treetop Village"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Academy Rector"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Contamination"
+      ]
+    }
+  ]
+}

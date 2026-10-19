@@ -1,54 +1,48 @@
 {
-    "Name": "BRG",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Devastating Dreams"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Mox Diamond"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Mulch"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Nimble Mongoose"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Call of the Herd"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Counterspell"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Stone Rain"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Lightning Bolt"
-            ]
-        }
-    ]
+  "Name": "Devastating Dreams",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Devastating Dreams"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Mox Diamond"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Mulch"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Nimble Mongoose"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Call of the Herd"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Counterspell"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Stone Rain"
+      ]
+    }
+  ]
 }

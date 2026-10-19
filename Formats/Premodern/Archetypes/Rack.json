@@ -1,0 +1,15 @@
+{
+  "Name": "Rack",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "The Rack",
+        "Bottomless Pit",
+        "Ravenous Rats",
+        "Funeral Charm"
+      ]
+    }
+  ]
+}

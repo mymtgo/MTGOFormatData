@@ -1,66 +1,66 @@
 {
-    "Name": "W-U-B-R-G",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Counterspell"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Fire // Ice"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Impulse"
-            ]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Fact or Fiction"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Mox Diamond"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Standstill"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Accumulated Knowledge"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Chromatic Sphere"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Psychatog"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Zombie Infestation"
-            ]
-        }
-    ]
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Counterspell"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Fire // Ice"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Impulse"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Fact or Fiction"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Mox Diamond"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Standstill"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Accumulated Knowledge"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Chromatic Sphere"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Psychatog"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Zombie Infestation"
+      ]
+    }
+  ]
 }
