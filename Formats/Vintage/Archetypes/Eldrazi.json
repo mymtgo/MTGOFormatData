@@ -1,14 +1,21 @@
 {
-    "Name": "Eldrazi",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Eye of Ugin"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Eldrazi Temple"]
-        }
-    ]
+  "Name": "Eldrazi",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Eye of Ugin"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Eldrazi Temple",
+        "Sowing Mycospawn",
+        "Glaring Fleshraker",
+        "Wastescape Battlemage"
+      ]
+    }
+  ]
 }
