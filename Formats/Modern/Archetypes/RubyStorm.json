@@ -3,12 +3,12 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Ral, Monsoon Mage"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Ral, Monsoon Mage", "Ruby Medallion", "Pyretic Ritual", "Desperate Ritual", "Grapeshot"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Ruby Medallion"]
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Charbelcher"]
     }
   ]
 }

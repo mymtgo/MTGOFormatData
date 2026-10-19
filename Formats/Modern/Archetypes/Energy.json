@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Ajani, Nacatl Pariah", "Guide of Souls"]
+      "Cards": ["Ajani, Nacatl Pariah", "Guide of Souls", "Static Prison"]
     },
     {
       "Type": "DoesNotContain",

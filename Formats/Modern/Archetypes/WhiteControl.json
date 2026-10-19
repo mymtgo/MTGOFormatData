@@ -1,0 +1,34 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wrath of the Skies"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Erode", "Demolition Field", "Field of Ruin"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Price of Freedom"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cleansing Wildfire"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Teferi, Time Raveler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Counterspell"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Supreme Verdict"]
+    }
+  ]
+}

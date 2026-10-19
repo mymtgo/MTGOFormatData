@@ -3,16 +3,20 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Gravecrawler"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Gravecrawler", "Warren Soultrader", "Chthonian Nightmare"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Warren Soultrader"]
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Ajani, Nacatl Pariah"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Chthonian Nightmare"]
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Static Prison"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Samwise Gamgee"]
     }
   ]
 }

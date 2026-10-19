@@ -8,7 +8,9 @@
         "Grief",
         "Dauthi Voidwalker",
         "Orcish Bowmasters",
-        "Boggart Trawler"
+        "Boggart Trawler",
+        "Soul Spike",
+        "March of Wretched Sorrow"
       ]
     },
     {
@@ -38,6 +40,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Warren Soultrader"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cosmogoyf"]
     }
   ]
 }
