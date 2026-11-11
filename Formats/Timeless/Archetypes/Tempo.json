@@ -1,0 +1,54 @@
+{
+  "Name": "Tempo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Daze"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Force of Will"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Brainstorm"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Entomb"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Reanimate"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Doomsday"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Show and Tell"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Stoneforge Mystic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Blink",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Quantum Riddler",
+        "Ephemerate"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Phelia, Exuberant Shepherd",
+        "Starfield Shepherd",
+        "Ketramose, the New Dawn"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Birthing Ritual"
+      ]
+    }
+  ]
+}

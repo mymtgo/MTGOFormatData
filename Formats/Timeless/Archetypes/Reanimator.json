@@ -1,0 +1,35 @@
+{
+  "Name": "Reanimator",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Entomb",
+        "Unmask",
+        "Archon of Cruelty",
+        "Atraxa, Grand Unifier"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Reanimate",
+        "Exhume",
+        "Animate Dead"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Worldgorger Dragon"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Show and Tell"
+      ]
+    }
+  ]
+}

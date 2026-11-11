@@ -1,0 +1,47 @@
+{
+  "Name": "Stompy",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Ancient Tomb"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Chrome Mox"
+      ]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Chalice of the Void",
+        "The One Ring",
+        "Blood Moon",
+        "Magus of the Moon",
+        "Fury",
+        "Solitude"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Show and Tell"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Beseech the Mirror"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Eldrazi Temple"
+      ]
+    }
+  ]
+}

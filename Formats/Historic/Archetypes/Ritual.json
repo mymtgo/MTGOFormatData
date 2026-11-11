@@ -1,0 +1,12 @@
+{
+  "Name": "Ritual",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Birthing Ritual"
+      ]
+    }
+  ]
+}

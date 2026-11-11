@@ -1,0 +1,21 @@
+{
+  "Name": "HighNoon",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "High Noon"
+      ]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Orim's Chant",
+        "Silence",
+        "Reprieve",
+        "Remand"
+      ]
+    }
+  ]
+}

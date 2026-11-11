@@ -1,0 +1,39 @@
+{
+  "Name": "Energy",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Guide of Souls",
+        "Ocelot Pride",
+        "Ajani, Nacatl Pariah",
+        "Static Prison",
+        "Amped Raptor"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Amped Raptor",
+        "Galvanic Discharge",
+        "Goblin Bombardment",
+        "Juggernaut Peddler"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "LurrusEnergy",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainOrSideboard",
+          "Cards": [
+            "Lurrus of the Dream-Den"
+          ]
+        }
+      ]
+    }
+  ]
+}

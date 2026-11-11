@@ -1,0 +1,18 @@
+{
+  "Name": "Nadu",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Nadu, Winged Wisdom"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Crop Rotation"
+      ]
+    }
+  ]
+}

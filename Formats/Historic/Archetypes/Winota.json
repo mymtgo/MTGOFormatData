@@ -1,0 +1,13 @@
+{
+  "Name": "Winota",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Winota, Joiner of Forces",
+        "A-Winota, Joiner of Forces"
+      ]
+    }
+  ]
+}

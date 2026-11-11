@@ -1,0 +1,36 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Barrowgoyf"
+      ]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Pyrogoyf",
+        "Jarsyl, Dark Age Scion",
+        "Ignoble Hierarch",
+        "Malevolent Rumble",
+        "Fable of the Mirror-Breaker"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "JeganthaMidrange",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainOrSideboard",
+          "Cards": [
+            "Jegantha, the Wellspring"
+          ]
+        }
+      ]
+    }
+  ]
+}

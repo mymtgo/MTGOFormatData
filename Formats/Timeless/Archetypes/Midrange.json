@@ -1,0 +1,37 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Wrenn and Six"
+      ]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Deathrite Shaman",
+        "Orcish Bowmasters",
+        "Ragavan, Nimble Pilferer",
+        "Amped Raptor",
+        "Fatal Push",
+        "Lightning Bolt"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "LurrusMidrange",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainOrSideboard",
+          "Cards": [
+            "Lurrus of the Dream-Den"
+          ]
+        }
+      ]
+    }
+  ]
+}

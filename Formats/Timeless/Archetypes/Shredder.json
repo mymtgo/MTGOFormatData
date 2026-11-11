@@ -1,0 +1,33 @@
+{
+  "Name": "Shredder",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Super Shredder"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Moonshadow",
+        "Urza's Bauble"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "LurrusShredder",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainOrSideboard",
+          "Cards": [
+            "Lurrus of the Dream-Den"
+          ]
+        }
+      ]
+    }
+  ]
+}

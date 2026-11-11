@@ -1,0 +1,34 @@
+{
+  "Name": "Auras",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Light-Paws, Emperor's Voice",
+        "Gladecover Scout"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "All That Glitters",
+        "Ethereal Armor"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "LurrusAuras",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainOrSideboard",
+          "Cards": [
+            "Lurrus of the Dream-Den"
+          ]
+        }
+      ]
+    }
+  ]
+}

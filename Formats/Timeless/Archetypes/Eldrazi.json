@@ -1,0 +1,25 @@
+{
+  "Name": "Eldrazi",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Thought-Knot Seer",
+        "Reality Smasher",
+        "It That Heralds the End",
+        "Eldrazi Linebreaker",
+        "Glaring Fleshraker",
+        "Voidpouncer",
+        "Wastescape Battlemage",
+        "Matter Reshaper"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Eldrazi Temple"
+      ]
+    }
+  ]
+}

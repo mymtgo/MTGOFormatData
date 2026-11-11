@@ -1,0 +1,25 @@
+{
+  "Name": "Domain",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Herd Migration",
+        "Overlord of the Hauntwoods"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Leyline Binding"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Up the Beanstalk"
+      ]
+    }
+  ]
+}

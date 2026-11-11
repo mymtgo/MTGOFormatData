@@ -1,0 +1,26 @@
+{
+  "Name": "Elves",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Llanowar Elves",
+        "Elvish Mystic"
+      ]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Priest of Titania",
+        "Wirewood Symbiote",
+        "Glimpse of Nature",
+        "Heritage Druid",
+        "Elvish Archdruid",
+        "Nettle Sentinel",
+        "Allosaurus Shepherd",
+        "Elvish Warmaster"
+      ]
+    }
+  ]
+}

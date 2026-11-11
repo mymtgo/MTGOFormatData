@@ -1,0 +1,18 @@
+{
+  "Name": "Frog",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Psychic Frog"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Abhorrent Oculus"
+      ]
+    }
+  ]
+}

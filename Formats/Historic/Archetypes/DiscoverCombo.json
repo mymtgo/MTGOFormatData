@@ -1,0 +1,20 @@
+{
+  "Name": "DiscoverCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Trumpeting Carnosaur"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Geological Appraiser",
+        "A-Geological Appraiser",
+        "Glasspool Mimic"
+      ]
+    }
+  ]
+}
