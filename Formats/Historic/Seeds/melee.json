@@ -1,0 +1,1964 @@
+[
+  {
+    "source": "https://melee.gg/Decklist/View/fbb3e6d2-4d91-4069-84de-b4cd0149fa0f",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Naya Winota",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "A-Minsc & Boo, Timeless Heroes"
+      },
+      {
+        "quantity": 4,
+        "name": "A-Winota, Joiner of Forces"
+      },
+      {
+        "quantity": 4,
+        "name": "Badgermole Cub"
+      },
+      {
+        "quantity": 4,
+        "name": "Delighted Halfling"
+      },
+      {
+        "quantity": 4,
+        "name": "Formidable Speaker"
+      },
+      {
+        "quantity": 4,
+        "name": "Gilded Goose"
+      },
+      {
+        "quantity": 4,
+        "name": "Tovolar's Huntmaster // Tovolar's Packleader"
+      },
+      {
+        "quantity": 3,
+        "name": "Brutal Cathar // Moonrage Brute"
+      },
+      {
+        "quantity": 1,
+        "name": "Absorbing Man and Titania"
+      },
+      {
+        "quantity": 4,
+        "name": "Malevolent Rumble"
+      },
+      {
+        "quantity": 4,
+        "name": "Mana Confluence"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Razorverge Thicket"
+      },
+      {
+        "quantity": 4,
+        "name": "Starting Town"
+      },
+      {
+        "quantity": 2,
+        "name": "Forest"
+      },
+      {
+        "quantity": 2,
+        "name": "Plains"
+      },
+      {
+        "quantity": 2,
+        "name": "Stomping Ground"
+      },
+      {
+        "quantity": 1,
+        "name": "Copperline Gorge"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "A-Haywire Mite"
+      },
+      {
+        "quantity": 3,
+        "name": "Magebane Lizard"
+      },
+      {
+        "quantity": 3,
+        "name": "Rest in Peace"
+      },
+      {
+        "quantity": 3,
+        "name": "Skyclave Apparition"
+      },
+      {
+        "quantity": 2,
+        "name": "Hexing Squelcher"
+      },
+      {
+        "quantity": 1,
+        "name": "Comet, Stellar Pup"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/ee454a0f-61e2-41b4-a187-b4cc016579e0",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Esper Oculus",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Abhorrent Oculus"
+      },
+      {
+        "quantity": 4,
+        "name": "Diviner of Fates"
+      },
+      {
+        "quantity": 4,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 3,
+        "name": "Ledger Shredder"
+      },
+      {
+        "quantity": 2,
+        "name": "Troll of Khazad-dûm"
+      },
+      {
+        "quantity": 1,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 4,
+        "name": "Unearth"
+      },
+      {
+        "quantity": 2,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 1,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 3,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 2,
+        "name": "Bitter Triumph"
+      },
+      {
+        "quantity": 2,
+        "name": "Thought Scour"
+      },
+      {
+        "quantity": 4,
+        "name": "Darkslick Shores"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      },
+      {
+        "quantity": 2,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Godless Shrine"
+      },
+      {
+        "quantity": 1,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 2,
+        "name": "Consign to Memory"
+      },
+      {
+        "quantity": 2,
+        "name": "Deafening Silence"
+      },
+      {
+        "quantity": 2,
+        "name": "Devout Decree"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "Toxic Deluge"
+      },
+      {
+        "quantity": 1,
+        "name": "Currency Converter"
+      },
+      {
+        "quantity": 1,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 1,
+        "name": "Spell Snare"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/c60c487d-2792-435e-9bc6-b4cd013a3a81",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Esper Tempo",
+    "main": [
+      {
+        "quantity": 2,
+        "name": "A-Teferi, Time Raveler"
+      },
+      {
+        "quantity": 4,
+        "name": "A-Orcish Bowmasters"
+      },
+      {
+        "quantity": 4,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 4,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 4,
+        "name": "Counterspell"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Fragment Reality"
+      },
+      {
+        "quantity": 2,
+        "name": "Snuff Out"
+      },
+      {
+        "quantity": 1,
+        "name": "Sink into Stupor // Soporific Springs"
+      },
+      {
+        "quantity": 4,
+        "name": "Concealed Courtyard"
+      },
+      {
+        "quantity": 4,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Starting Town"
+      },
+      {
+        "quantity": 4,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 1,
+        "name": "Darkslick Shores"
+      },
+      {
+        "quantity": 1,
+        "name": "Godless Shrine"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 2,
+        "name": "Fragment Reality"
+      },
+      {
+        "quantity": 2,
+        "name": "High Noon"
+      },
+      {
+        "quantity": 2,
+        "name": "Ketramose, the New Dawn"
+      },
+      {
+        "quantity": 2,
+        "name": "Rest in Peace"
+      },
+      {
+        "quantity": 2,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 2,
+        "name": "Wrath of the Skies"
+      },
+      {
+        "quantity": 1,
+        "name": "Dismember"
+      },
+      {
+        "quantity": 1,
+        "name": "Soul-Guide Lantern"
+      },
+      {
+        "quantity": 1,
+        "name": "Supreme Verdict"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/b84053f7-e711-4afb-8be3-b4cd0117ba8e",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Bant Ritual",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Badgermole Cub"
+      },
+      {
+        "quantity": 4,
+        "name": "Disciple of Freyalise // Garden of Freyalise"
+      },
+      {
+        "quantity": 4,
+        "name": "Fear of Change"
+      },
+      {
+        "quantity": 4,
+        "name": "Noble Hierarch"
+      },
+      {
+        "quantity": 4,
+        "name": "Quantum Riddler"
+      },
+      {
+        "quantity": 3,
+        "name": "Birds of Paradise"
+      },
+      {
+        "quantity": 2,
+        "name": "All-Fates Stalker"
+      },
+      {
+        "quantity": 2,
+        "name": "Hydroelectric Specimen // Hydroelectric Laboratory"
+      },
+      {
+        "quantity": 2,
+        "name": "Starfield Shepherd"
+      },
+      {
+        "quantity": 1,
+        "name": "Archon of Emeria"
+      },
+      {
+        "quantity": 1,
+        "name": "Endurance"
+      },
+      {
+        "quantity": 1,
+        "name": "Formidable Speaker"
+      },
+      {
+        "quantity": 1,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 1,
+        "name": "Mockingbird"
+      },
+      {
+        "quantity": 1,
+        "name": "Sylvan Safekeeper"
+      },
+      {
+        "quantity": 1,
+        "name": "Witch Enchanter // Witch-Blessed Meadow"
+      },
+      {
+        "quantity": 2,
+        "name": "Eldritch Evolution"
+      },
+      {
+        "quantity": 3,
+        "name": "Sink into Stupor // Soporific Springs"
+      },
+      {
+        "quantity": 2,
+        "name": "Dismember"
+      },
+      {
+        "quantity": 4,
+        "name": "Birthing Ritual"
+      },
+      {
+        "quantity": 4,
+        "name": "Botanical Sanctum"
+      },
+      {
+        "quantity": 3,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 3,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 3,
+        "name": "Rest in Peace"
+      },
+      {
+        "quantity": 2,
+        "name": "Dismember"
+      },
+      {
+        "quantity": 2,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 1,
+        "name": "A-Haywire Mite"
+      },
+      {
+        "quantity": 1,
+        "name": "Antique Collector"
+      },
+      {
+        "quantity": 1,
+        "name": "Archon of Emeria"
+      },
+      {
+        "quantity": 1,
+        "name": "Force of Vigor"
+      },
+      {
+        "quantity": 1,
+        "name": "Mystical Dispute"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/9392ff60-bfaf-4953-b6bd-b4cd014dd02b",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Jund Midrange (Jegantha)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "A-Orcish Bowmasters"
+      },
+      {
+        "quantity": 4,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Ignoble Hierarch"
+      },
+      {
+        "quantity": 4,
+        "name": "Jarsyl, Dark Age Scion"
+      },
+      {
+        "quantity": 4,
+        "name": "Pyrogoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Malevolent Rumble"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 2,
+        "name": "Inquisition of Kozilek"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 1,
+        "name": "Abrupt Decay"
+      },
+      {
+        "quantity": 2,
+        "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Starting Town"
+      },
+      {
+        "quantity": 3,
+        "name": "Blooming Marsh"
+      },
+      {
+        "quantity": 3,
+        "name": "Stomping Ground"
+      },
+      {
+        "quantity": 2,
+        "name": "Arena of Glory"
+      },
+      {
+        "quantity": 2,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 2,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Nurturing Peatland"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Jegantha, the Wellspring"
+      },
+      {
+        "quantity": 3,
+        "name": "Culling Ritual"
+      },
+      {
+        "quantity": 2,
+        "name": "A-Minsc & Boo, Timeless Heroes"
+      },
+      {
+        "quantity": 2,
+        "name": "Damping Sphere"
+      },
+      {
+        "quantity": 2,
+        "name": "Soul-Guide Lantern"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 1,
+        "name": "Go Blank"
+      },
+      {
+        "quantity": 1,
+        "name": "Magus of the Moon"
+      },
+      {
+        "quantity": 1,
+        "name": "Witherbloom Command"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/83134353-544f-4976-994a-b4cc015992ec",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Selesnya Auras (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Esper Sentinel"
+      },
+      {
+        "quantity": 4,
+        "name": "Generous Visitor"
+      },
+      {
+        "quantity": 4,
+        "name": "Optimistic Scavenger"
+      },
+      {
+        "quantity": 3,
+        "name": "Light-Paws, Emperor's Voice"
+      },
+      {
+        "quantity": 2,
+        "name": "Mother of Runes"
+      },
+      {
+        "quantity": 2,
+        "name": "Sythis, Harvest's Hand"
+      },
+      {
+        "quantity": 4,
+        "name": "Ethereal Armor"
+      },
+      {
+        "quantity": 4,
+        "name": "Sheltered by Ghosts"
+      },
+      {
+        "quantity": 3,
+        "name": "Audacity"
+      },
+      {
+        "quantity": 3,
+        "name": "Seam Rip"
+      },
+      {
+        "quantity": 2,
+        "name": "Shardmage's Rescue"
+      },
+      {
+        "quantity": 1,
+        "name": "Alpha Authority"
+      },
+      {
+        "quantity": 1,
+        "name": "Feather of Flight"
+      },
+      {
+        "quantity": 1,
+        "name": "Lion Umbra"
+      },
+      {
+        "quantity": 1,
+        "name": "Meltstrider's Resolve"
+      },
+      {
+        "quantity": 1,
+        "name": "Rancor"
+      },
+      {
+        "quantity": 1,
+        "name": "Rune of Might"
+      },
+      {
+        "quantity": 4,
+        "name": "Brushland"
+      },
+      {
+        "quantity": 4,
+        "name": "Razorverge Thicket"
+      },
+      {
+        "quantity": 4,
+        "name": "Temple Garden"
+      },
+      {
+        "quantity": 3,
+        "name": "Plains"
+      },
+      {
+        "quantity": 2,
+        "name": "Branchloft Pathway // Boulderloft Pathway"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Eiganjo, Seat of the Empire"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 3,
+        "name": "Deafening Silence"
+      },
+      {
+        "quantity": 3,
+        "name": "Hushbringer"
+      },
+      {
+        "quantity": 2,
+        "name": "Voice of Victory"
+      },
+      {
+        "quantity": 1,
+        "name": "Containment Priest"
+      },
+      {
+        "quantity": 1,
+        "name": "Fragment Reality"
+      },
+      {
+        "quantity": 1,
+        "name": "Legolas's Quick Reflexes"
+      },
+      {
+        "quantity": 1,
+        "name": "Rest in Peace"
+      },
+      {
+        "quantity": 1,
+        "name": "Seam Rip"
+      },
+      {
+        "quantity": 1,
+        "name": "Shardmage's Rescue"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/7b26edbe-4390-4c52-a63d-b4cd0145fbcb",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Jeskai Control",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "A-Teferi, Time Raveler"
+      },
+      {
+        "quantity": 4,
+        "name": "Phlage, Titan of Fire's Fury"
+      },
+      {
+        "quantity": 3,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 2,
+        "name": "Day of Judgment"
+      },
+      {
+        "quantity": 2,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 1,
+        "name": "Wrath of the Skies"
+      },
+      {
+        "quantity": 4,
+        "name": "Consult the Star Charts"
+      },
+      {
+        "quantity": 4,
+        "name": "Orim's Chant"
+      },
+      {
+        "quantity": 4,
+        "name": "Remand"
+      },
+      {
+        "quantity": 4,
+        "name": "Reprieve"
+      },
+      {
+        "quantity": 2,
+        "name": "Silence"
+      },
+      {
+        "quantity": 4,
+        "name": "High Noon"
+      },
+      {
+        "quantity": 4,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      },
+      {
+        "quantity": 2,
+        "name": "Plains"
+      },
+      {
+        "quantity": 2,
+        "name": "Raugrin Triome"
+      },
+      {
+        "quantity": 2,
+        "name": "Sacred Foundry"
+      },
+      {
+        "quantity": 2,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 1,
+        "name": "Elegant Parlor"
+      },
+      {
+        "quantity": 1,
+        "name": "Meticulous Archive"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Thundering Falls"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 3,
+        "name": "Get Lost"
+      },
+      {
+        "quantity": 3,
+        "name": "Relic of Progenitus"
+      },
+      {
+        "quantity": 2,
+        "name": "Day of Judgment"
+      },
+      {
+        "quantity": 2,
+        "name": "Tishana's Tidebinder"
+      },
+      {
+        "quantity": 1,
+        "name": "Flusterstorm"
+      },
+      {
+        "quantity": 1,
+        "name": "Hullbreaker Horror"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/705d51ec-0e0b-4462-8419-b4cd010a9a10",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Izzet Prowess (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "A-Dragon's Rage Channeler"
+      },
+      {
+        "quantity": 4,
+        "name": "Monastery Swiftspear"
+      },
+      {
+        "quantity": 4,
+        "name": "Chain Lightning"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 3,
+        "name": "Boomerang Basics"
+      },
+      {
+        "quantity": 2,
+        "name": "Reckless Charge"
+      },
+      {
+        "quantity": 4,
+        "name": "Consider"
+      },
+      {
+        "quantity": 4,
+        "name": "Manamorphose"
+      },
+      {
+        "quantity": 2,
+        "name": "Spell Snare"
+      },
+      {
+        "quantity": 4,
+        "name": "A-Cori-Steel Cutter"
+      },
+      {
+        "quantity": 4,
+        "name": "Urza's Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Stormchaser's Talent"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Spirebluff Canal"
+      },
+      {
+        "quantity": 4,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      },
+      {
+        "quantity": 2,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Fiery Islet"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 4,
+        "name": "Unholy Heat"
+      },
+      {
+        "quantity": 3,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 2,
+        "name": "Pithing Needle"
+      },
+      {
+        "quantity": 2,
+        "name": "Spell Pierce"
+      },
+      {
+        "quantity": 2,
+        "name": "Tormod's Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Spell Snare"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/569e8a29-1d10-410c-95d3-b4cb0155b4d6",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Azorius High Noon",
+    "main": [
+      {
+        "quantity": 2,
+        "name": "Jace, the Mind Sculptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Aven Interrupter"
+      },
+      {
+        "quantity": 4,
+        "name": "Spell Queller"
+      },
+      {
+        "quantity": 3,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 2,
+        "name": "Archon of Emeria"
+      },
+      {
+        "quantity": 2,
+        "name": "Talion's Throneguard"
+      },
+      {
+        "quantity": 1,
+        "name": "Calim, Djinn Emperor"
+      },
+      {
+        "quantity": 4,
+        "name": "Orim's Chant"
+      },
+      {
+        "quantity": 4,
+        "name": "Remand"
+      },
+      {
+        "quantity": 4,
+        "name": "Reprieve"
+      },
+      {
+        "quantity": 4,
+        "name": "Silence"
+      },
+      {
+        "quantity": 1,
+        "name": "Sink into Stupor // Soporific Springs"
+      },
+      {
+        "quantity": 4,
+        "name": "High Noon"
+      },
+      {
+        "quantity": 4,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Hengegate Pathway // Mistgate Pathway"
+      },
+      {
+        "quantity": 4,
+        "name": "Mana Confluence"
+      },
+      {
+        "quantity": 3,
+        "name": "Adarkar Wastes"
+      },
+      {
+        "quantity": 1,
+        "name": "Castle Ardenvale"
+      },
+      {
+        "quantity": 1,
+        "name": "Eiganjo, Seat of the Empire"
+      },
+      {
+        "quantity": 1,
+        "name": "Glacial Fortress"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Otawara, Soaring City"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Enlightened Tutor"
+      },
+      {
+        "quantity": 3,
+        "name": "Containment Priest"
+      },
+      {
+        "quantity": 3,
+        "name": "Fragment Reality"
+      },
+      {
+        "quantity": 3,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 1,
+        "name": "Pinnacle Starcage"
+      },
+      {
+        "quantity": 1,
+        "name": "Rest in Peace"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/51b5a1c8-2c1e-4973-84f0-b4cd013b7046",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Jeskai",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 4,
+        "name": "Phelia, Exuberant Shepherd"
+      },
+      {
+        "quantity": 4,
+        "name": "Quantum Riddler"
+      },
+      {
+        "quantity": 4,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 3,
+        "name": "Phlage, Titan of Fire's Fury"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 2,
+        "name": "Wrath of the Skies"
+      },
+      {
+        "quantity": 4,
+        "name": "Consign to Memory"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 4,
+        "name": "Stifle"
+      },
+      {
+        "quantity": 5,
+        "name": "Island"
+      },
+      {
+        "quantity": 4,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 3,
+        "name": "Plains"
+      },
+      {
+        "quantity": 2,
+        "name": "Demolition Field"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 3,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "Containment Priest"
+      },
+      {
+        "quantity": 2,
+        "name": "Rest in Peace"
+      },
+      {
+        "quantity": 1,
+        "name": "Authority of the Consuls"
+      },
+      {
+        "quantity": 1,
+        "name": "Flusterstorm"
+      },
+      {
+        "quantity": 1,
+        "name": "Lightning Helix"
+      },
+      {
+        "quantity": 1,
+        "name": "Supreme Verdict"
+      },
+      {
+        "quantity": 1,
+        "name": "Wrath of the Skies"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/4dfb5240-ddbf-4612-a085-b4cc011f8f63",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "5-Color Domain",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Archangel of Wrath"
+      },
+      {
+        "quantity": 4,
+        "name": "Topiary Stomper"
+      },
+      {
+        "quantity": 3,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 4,
+        "name": "Herd Migration"
+      },
+      {
+        "quantity": 4,
+        "name": "Sunfall"
+      },
+      {
+        "quantity": 1,
+        "name": "Go for the Throat"
+      },
+      {
+        "quantity": 2,
+        "name": "Courier's Briefcase"
+      },
+      {
+        "quantity": 4,
+        "name": "Leyline Binding"
+      },
+      {
+        "quantity": 3,
+        "name": "Virtue of Persistence // Locthwain Scorn"
+      },
+      {
+        "quantity": 2,
+        "name": "Up the Beanstalk"
+      },
+      {
+        "quantity": 4,
+        "name": "Forest"
+      },
+      {
+        "quantity": 4,
+        "name": "Jetmir's Garden"
+      },
+      {
+        "quantity": 4,
+        "name": "Spara's Headquarters"
+      },
+      {
+        "quantity": 4,
+        "name": "Ziatora's Proving Ground"
+      },
+      {
+        "quantity": 3,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 2,
+        "name": "Mirrex"
+      },
+      {
+        "quantity": 2,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 4,
+        "name": "Invasion of Zendikar // Awakened Skyclave"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Disdainful Stroke"
+      },
+      {
+        "quantity": 2,
+        "name": "A-Knockout Blow"
+      },
+      {
+        "quantity": 2,
+        "name": "Anoint with Affliction"
+      },
+      {
+        "quantity": 2,
+        "name": "Duress"
+      },
+      {
+        "quantity": 1,
+        "name": "Chrome Host Seedshark"
+      },
+      {
+        "quantity": 1,
+        "name": "Destroy Evil"
+      },
+      {
+        "quantity": 1,
+        "name": "Elspeth's Smite"
+      },
+      {
+        "quantity": 1,
+        "name": "Negate"
+      },
+      {
+        "quantity": 1,
+        "name": "Obstinate Baloth"
+      },
+      {
+        "quantity": 1,
+        "name": "Up the Beanstalk"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/37cc8ed1-a0ba-42a3-9a71-b4cc01267a48",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Sultai Midrange",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "A-Orcish Bowmasters"
+      },
+      {
+        "quantity": 4,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 3,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 3,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 2,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 2,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 3,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 3,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 3,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 2,
+        "name": "Shoot the Sheriff"
+      },
+      {
+        "quantity": 1,
+        "name": "Consider"
+      },
+      {
+        "quantity": 1,
+        "name": "Drown in the Loch"
+      },
+      {
+        "quantity": 1,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 1,
+        "name": "Sheoldred's Edict"
+      },
+      {
+        "quantity": 1,
+        "name": "Soul-Guide Lantern"
+      },
+      {
+        "quantity": 3,
+        "name": "Oasis of Renewal"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 2,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 2,
+        "name": "Darkslick Shores"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      },
+      {
+        "quantity": 2,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Gloomlake Verge"
+      },
+      {
+        "quantity": 1,
+        "name": "Overgrown Tomb"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Flashfreeze"
+      },
+      {
+        "quantity": 3,
+        "name": "Toxic Deluge"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 1,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 1,
+        "name": "Dismember"
+      },
+      {
+        "quantity": 1,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 1,
+        "name": "Relic of Progenitus"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/2df1e36e-40c8-4758-abef-b4cd00d5cb9d",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Mono-Green Elves",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Allosaurus Shepherd"
+      },
+      {
+        "quantity": 4,
+        "name": "Badgermole Cub"
+      },
+      {
+        "quantity": 4,
+        "name": "Disciple of Freyalise // Garden of Freyalise"
+      },
+      {
+        "quantity": 4,
+        "name": "Elvish Mystic"
+      },
+      {
+        "quantity": 4,
+        "name": "Llanowar Elves"
+      },
+      {
+        "quantity": 4,
+        "name": "Priest of Titania"
+      },
+      {
+        "quantity": 4,
+        "name": "Wirewood Symbiote"
+      },
+      {
+        "quantity": 2,
+        "name": "Shang-Chi, Master of Kung Fu"
+      },
+      {
+        "quantity": 1,
+        "name": "Chittering Illuminator"
+      },
+      {
+        "quantity": 1,
+        "name": "Craterhoof Behemoth"
+      },
+      {
+        "quantity": 1,
+        "name": "Eladamri, Korvecdal"
+      },
+      {
+        "quantity": 4,
+        "name": "Glimpse of Nature"
+      },
+      {
+        "quantity": 4,
+        "name": "Green Sun's Zenith"
+      },
+      {
+        "quantity": 2,
+        "name": "Leyline of Abundance"
+      },
+      {
+        "quantity": 6,
+        "name": "Forest"
+      },
+      {
+        "quantity": 4,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Castle Garenbrig"
+      },
+      {
+        "quantity": 1,
+        "name": "Lair of the Hydra"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Dismember"
+      },
+      {
+        "quantity": 2,
+        "name": "Endurance"
+      },
+      {
+        "quantity": 2,
+        "name": "Soulless Jailer"
+      },
+      {
+        "quantity": 1,
+        "name": "Fade from History"
+      },
+      {
+        "quantity": 1,
+        "name": "Force of Vigor"
+      },
+      {
+        "quantity": 1,
+        "name": "Infirmary Healer // Stream of Life"
+      },
+      {
+        "quantity": 1,
+        "name": "Nature's Claim"
+      },
+      {
+        "quantity": 1,
+        "name": "Pithing Needle"
+      },
+      {
+        "quantity": 1,
+        "name": "Reclamation Sage"
+      },
+      {
+        "quantity": 1,
+        "name": "Shapers' Sanctuary"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/24116ae2-e6fb-4392-9123-b4cd0010db9f",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Appraiser Combo",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "A-Geological Appraiser"
+      },
+      {
+        "quantity": 4,
+        "name": "Glasspool Mimic // Glasspool Shore"
+      },
+      {
+        "quantity": 4,
+        "name": "Trumpeting Carnosaur"
+      },
+      {
+        "quantity": 3,
+        "name": "Colossal Skyturtle"
+      },
+      {
+        "quantity": 3,
+        "name": "Mirror Image"
+      },
+      {
+        "quantity": 2,
+        "name": "Deceit"
+      },
+      {
+        "quantity": 1,
+        "name": "Doomskar Titan"
+      },
+      {
+        "quantity": 1,
+        "name": "Ghalta, Stampede Tyrant"
+      },
+      {
+        "quantity": 4,
+        "name": "Eldritch Evolution"
+      },
+      {
+        "quantity": 2,
+        "name": "Connive // Concoct"
+      },
+      {
+        "quantity": 4,
+        "name": "Creative Outburst"
+      },
+      {
+        "quantity": 2,
+        "name": "Consign // Oblivion"
+      },
+      {
+        "quantity": 1,
+        "name": "Bedeck // Bedazzle"
+      },
+      {
+        "quantity": 1,
+        "name": "Roaring Furnace // Steaming Sauna"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 3,
+        "name": "Blazemire Verge"
+      },
+      {
+        "quantity": 3,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 3,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      },
+      {
+        "quantity": 2,
+        "name": "Riverpyre Verge"
+      },
+      {
+        "quantity": 2,
+        "name": "Thundering Falls"
+      },
+      {
+        "quantity": 2,
+        "name": "Undercity Sewers"
+      },
+      {
+        "quantity": 1,
+        "name": "Otawara, Soaring City"
+      },
+      {
+        "quantity": 1,
+        "name": "Raucous Theater"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Mirrorshell Crab"
+      },
+      {
+        "quantity": 3,
+        "name": "Cease // Desist"
+      },
+      {
+        "quantity": 2,
+        "name": "Consign // Oblivion"
+      },
+      {
+        "quantity": 1,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 1,
+        "name": "Horned Loch-Whale // Lagoon Breach"
+      },
+      {
+        "quantity": 1,
+        "name": "Keruga, the Macrosage"
+      },
+      {
+        "quantity": 1,
+        "name": "Marang River Regent // Coil and Catch"
+      },
+      {
+        "quantity": 1,
+        "name": "Saint Elenda"
+      },
+      {
+        "quantity": 1,
+        "name": "Torrential Gearhulk"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/09ea5d33-74bc-4420-9311-b4cd00bb1ef7",
+    "event": "Meta Confluence: Open #9",
+    "date": "2026-09-22",
+    "name": "Jund Midrange",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Ignoble Hierarch"
+      },
+      {
+        "quantity": 4,
+        "name": "Pyrogoyf"
+      },
+      {
+        "quantity": 3,
+        "name": "Crucias, Titan of the Waves"
+      },
+      {
+        "quantity": 3,
+        "name": "Jarsyl, Dark Age Scion"
+      },
+      {
+        "quantity": 4,
+        "name": "Malevolent Rumble"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 3,
+        "name": "Hymn to Tourach"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 2,
+        "name": "Abrupt Decay"
+      },
+      {
+        "quantity": 2,
+        "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+      },
+      {
+        "quantity": 4,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 4,
+        "name": "Prismatic Vista"
+      },
+      {
+        "quantity": 4,
+        "name": "Starting Town"
+      },
+      {
+        "quantity": 3,
+        "name": "Blooming Marsh"
+      },
+      {
+        "quantity": 3,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 2,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Blazemire Verge"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Meltdown"
+      },
+      {
+        "quantity": 2,
+        "name": "Damping Sphere"
+      },
+      {
+        "quantity": 2,
+        "name": "Dauthi Voidwalker"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "Toxic Deluge"
+      },
+      {
+        "quantity": 1,
+        "name": "Abrupt Decay"
+      },
+      {
+        "quantity": 1,
+        "name": "Alpine Moon"
+      },
+      {
+        "quantity": 1,
+        "name": "Pithing Needle"
+      },
+      {
+        "quantity": 1,
+        "name": "Stone of Erech"
+      }
+    ]
+  }
+]

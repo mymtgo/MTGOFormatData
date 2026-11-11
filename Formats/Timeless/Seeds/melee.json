@@ -1,0 +1,4134 @@
+[
+  {
+    "source": "https://melee.gg/Decklist/View/200ab272-9bda-4bf4-bec9-b4ef00bc63c0",
+    "event": "Weekday Night Magic",
+    "date": "2026-10-26",
+    "name": "Esper",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 3,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 2,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 2,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 1,
+        "name": "Bloodchief's Thirst"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 3,
+        "name": "Daze"
+      },
+      {
+        "quantity": 3,
+        "name": "Change the Narrative"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 2,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 2,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 2,
+        "name": "Potential Horizon"
+      },
+      {
+        "quantity": 2,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 1,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Ghost Vacuum"
+      },
+      {
+        "quantity": 2,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 2,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 2,
+        "name": "Unable to Scream"
+      },
+      {
+        "quantity": 1,
+        "name": "Faerie Macabre"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/2c679ce2-7f00-44be-b120-b4ee00744daa",
+    "event": "Weekday Night Magic",
+    "date": "2026-10-26",
+    "name": "Azorius",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 4,
+        "name": "Stoneforge Mystic"
+      },
+      {
+        "quantity": 3,
+        "name": "Phelia, Exuberant Shepherd"
+      },
+      {
+        "quantity": 3,
+        "name": "Quantum Riddler"
+      },
+      {
+        "quantity": 1,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 1,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Stifle"
+      },
+      {
+        "quantity": 4,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 1,
+        "name": "Kaldra Compleat"
+      },
+      {
+        "quantity": 1,
+        "name": "Meteor Sword"
+      },
+      {
+        "quantity": 1,
+        "name": "Tome of Gadwick"
+      },
+      {
+        "quantity": 4,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 4,
+        "name": "Hallowed Fountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 2,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 2,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Meticulous Archive"
+      },
+      {
+        "quantity": 1,
+        "name": "Mystic Sanctuary"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Scalding Tarn"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 3,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 2,
+        "name": "Containment Priest"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 1,
+        "name": "Batterskull"
+      },
+      {
+        "quantity": 1,
+        "name": "Fragment Reality"
+      },
+      {
+        "quantity": 1,
+        "name": "Wrath of the Skies"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/42d03f76-479c-45e0-b2ce-b4ef00c8146c",
+    "event": "Weekday Night Magic",
+    "date": "2026-10-26",
+    "name": "Jund (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Wrenn and Six"
+      },
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 3,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 4,
+        "name": "Inquisition of Kozilek"
+      },
+      {
+        "quantity": 3,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 1,
+        "name": "Molten Collapse"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Lightning Bolt"
+      },
+      {
+        "quantity": 1,
+        "name": "Once Upon a Time"
+      },
+      {
+        "quantity": 1,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "Mishra's Bauble"
+      },
+      {
+        "quantity": 1,
+        "name": "Soul-Guide Lantern"
+      },
+      {
+        "quantity": 4,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Wooded Foothills"
+      },
+      {
+        "quantity": 1,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Commercial District"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Raucous Theater"
+      },
+      {
+        "quantity": 1,
+        "name": "Stomping Ground"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Underground Mortuary"
+      },
+      {
+        "quantity": 1,
+        "name": "Verdant Catacombs"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 2,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 2,
+        "name": "Culling Ritual"
+      },
+      {
+        "quantity": 2,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "The Meathook Massacre"
+      },
+      {
+        "quantity": 2,
+        "name": "Veil of Summer"
+      },
+      {
+        "quantity": 1,
+        "name": "Force of Vigor"
+      },
+      {
+        "quantity": 1,
+        "name": "Spectacle of Destruction"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/b4c0ef96-0e19-40e9-9854-b4ef009b89e4",
+    "event": "Weekday Night Magic",
+    "date": "2026-10-26",
+    "name": "Mono-Red",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Eldrazi Linebreaker"
+      },
+      {
+        "quantity": 4,
+        "name": "Glaring Fleshraker"
+      },
+      {
+        "quantity": 4,
+        "name": "It That Heralds the End"
+      },
+      {
+        "quantity": 4,
+        "name": "Thought-Knot Seer"
+      },
+      {
+        "quantity": 4,
+        "name": "Voidpouncer"
+      },
+      {
+        "quantity": 4,
+        "name": "Wastescape Battlemage"
+      },
+      {
+        "quantity": 4,
+        "name": "Kozilek's Command"
+      },
+      {
+        "quantity": 4,
+        "name": "Chalice of the Void"
+      },
+      {
+        "quantity": 3,
+        "name": "Chromatic Star"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Eldrazi Temple"
+      },
+      {
+        "quantity": 4,
+        "name": "Eye of Ugin"
+      },
+      {
+        "quantity": 3,
+        "name": "Karplusan Forest"
+      },
+      {
+        "quantity": 3,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Urborg, Tomb of Yawgmoth"
+      },
+      {
+        "quantity": 1,
+        "name": "Yavimaya, Cradle of Growth"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Leyline of Sanctity"
+      },
+      {
+        "quantity": 4,
+        "name": "Leyline of the Void"
+      },
+      {
+        "quantity": 3,
+        "name": "Disruptor Flute"
+      },
+      {
+        "quantity": 2,
+        "name": "Dismember"
+      },
+      {
+        "quantity": 1,
+        "name": "Damping Sphere"
+      },
+      {
+        "quantity": 1,
+        "name": "Warping Wail"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/d17c3eb4-19db-41e9-bba3-b4ef00c53519",
+    "event": "Weekday Night Magic",
+    "date": "2026-10-26",
+    "name": "Mardu (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+      },
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Guide of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Juggernaut Peddler"
+      },
+      {
+        "quantity": 4,
+        "name": "Ocelot Pride"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 2,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 4,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 2,
+        "name": "Galvanic Discharge"
+      },
+      {
+        "quantity": 3,
+        "name": "Goblin Bombardment"
+      },
+      {
+        "quantity": 2,
+        "name": "Static Prison"
+      },
+      {
+        "quantity": 4,
+        "name": "Arid Mesa"
+      },
+      {
+        "quantity": 4,
+        "name": "Marsh Flats"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 2,
+        "name": "Godless Shrine"
+      },
+      {
+        "quantity": 2,
+        "name": "Sacred Foundry"
+      },
+      {
+        "quantity": 1,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Elegant Parlor"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 3,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 2,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 1,
+        "name": "Impetuous Lootmonger"
+      },
+      {
+        "quantity": 1,
+        "name": "Static Prison"
+      },
+      {
+        "quantity": 1,
+        "name": "Umezawa's Jitte"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/fd96c78d-f4b3-4183-930a-b4ef008a255e",
+    "event": "Weekday Night Magic",
+    "date": "2026-10-26",
+    "name": "W-U-B-G (Yorion)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Echogoyfs"
+      },
+      {
+        "quantity": 2,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 2,
+        "name": "Quantum Riddler"
+      },
+      {
+        "quantity": 2,
+        "name": "Superior Spider-Man"
+      },
+      {
+        "quantity": 2,
+        "name": "Uro, Titan of Nature's Wrath"
+      },
+      {
+        "quantity": 4,
+        "name": "Extrapolate the Impossible"
+      },
+      {
+        "quantity": 4,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 3,
+        "name": "Crime // Punishment"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Stifle"
+      },
+      {
+        "quantity": 2,
+        "name": "Grave Expectations"
+      },
+      {
+        "quantity": 1,
+        "name": "Commandeer"
+      },
+      {
+        "quantity": 4,
+        "name": "Preponderant Pearl"
+      },
+      {
+        "quantity": 2,
+        "name": "Giant's Boulder"
+      },
+      {
+        "quantity": 4,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 2,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 2,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Field of the Dead"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Hedge Maze"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Mystic Sanctuary"
+      },
+      {
+        "quantity": 1,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      },
+      {
+        "quantity": 1,
+        "name": "Underground Mortuary"
+      },
+      {
+        "quantity": 1,
+        "name": "Yavimaya, Cradle of Growth"
+      },
+      {
+        "quantity": 1,
+        "name": "Zagoth Triome"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Yorion, Sky Nomad"
+      },
+      {
+        "quantity": 1,
+        "name": "Altar of the Goyf"
+      },
+      {
+        "quantity": 1,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 1,
+        "name": "Cling to Dust"
+      },
+      {
+        "quantity": 1,
+        "name": "Consign to Memory"
+      },
+      {
+        "quantity": 1,
+        "name": "Flusterstorm"
+      },
+      {
+        "quantity": 1,
+        "name": "Glimpse of Freedom"
+      },
+      {
+        "quantity": 1,
+        "name": "Harvester of Misery"
+      },
+      {
+        "quantity": 1,
+        "name": "Infestation"
+      },
+      {
+        "quantity": 1,
+        "name": "Jace's Saga"
+      },
+      {
+        "quantity": 1,
+        "name": "Mishra's Bauble"
+      },
+      {
+        "quantity": 1,
+        "name": "Proft's Eidetic Memory"
+      },
+      {
+        "quantity": 1,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 1,
+        "name": "Toxic Deluge"
+      },
+      {
+        "quantity": 1,
+        "name": "Zuran Orb"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/1be066ae-84bd-43db-bd33-b4a500c73da3",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Sultai",
+    "main": [
+      {
+        "quantity": 17,
+        "name": "Persistent Petitioners"
+      },
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 1,
+        "name": "Cemetery Prowler"
+      },
+      {
+        "quantity": 1,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 1,
+        "name": "Primal Adversary"
+      },
+      {
+        "quantity": 1,
+        "name": "Realmwalker"
+      },
+      {
+        "quantity": 1,
+        "name": "Summon: Fenrir"
+      },
+      {
+        "quantity": 4,
+        "name": "Collected Company"
+      },
+      {
+        "quantity": 4,
+        "name": "Dark Ritual"
+      },
+      {
+        "quantity": 3,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 4,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Verdant Catacombs"
+      },
+      {
+        "quantity": 3,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Urborg, Tomb of Yawgmoth"
+      },
+      {
+        "quantity": 1,
+        "name": "Wooded Foothills"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 3,
+        "name": "Veil of Summer"
+      },
+      {
+        "quantity": 2,
+        "name": "Abrupt Decay"
+      },
+      {
+        "quantity": 1,
+        "name": "Cemetery Prowler"
+      },
+      {
+        "quantity": 1,
+        "name": "Disruptor Flute"
+      },
+      {
+        "quantity": 1,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 1,
+        "name": "Inquisition of Kozilek"
+      },
+      {
+        "quantity": 1,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 1,
+        "name": "Sarulf, Realm Eater"
+      },
+      {
+        "quantity": 1,
+        "name": "Surgical Extraction"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/697145be-4710-4e71-bb16-b4a500a05eca",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Izzet",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Dragon's Rage Channeler"
+      },
+      {
+        "quantity": 4,
+        "name": "Persistent Petitioners"
+      },
+      {
+        "quantity": 4,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Lightning Bolt"
+      },
+      {
+        "quantity": 2,
+        "name": "Unholy Heat"
+      },
+      {
+        "quantity": 4,
+        "name": "Mishra's Bauble"
+      },
+      {
+        "quantity": 2,
+        "name": "Underworld Breach"
+      },
+      {
+        "quantity": 4,
+        "name": "Scalding Tarn"
+      },
+      {
+        "quantity": 4,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 2,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 2,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 2,
+        "name": "Thundering Falls"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 2,
+        "name": "Flusterstorm"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 2,
+        "name": "Molten Impact"
+      },
+      {
+        "quantity": 2,
+        "name": "Scrabbling Claws"
+      },
+      {
+        "quantity": 2,
+        "name": "Shattering Spree"
+      },
+      {
+        "quantity": 2,
+        "name": "Soul-Guide Lantern"
+      },
+      {
+        "quantity": 1,
+        "name": "Fear, Fire, Foes!"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/6d425788-a3dd-4104-a2a9-b4a500c8bb36",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Mardu (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+      },
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Guide of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Juggernaut Peddler"
+      },
+      {
+        "quantity": 4,
+        "name": "Ocelot Pride"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 2,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 3,
+        "name": "Galvanic Discharge"
+      },
+      {
+        "quantity": 3,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 3,
+        "name": "Goblin Bombardment"
+      },
+      {
+        "quantity": 2,
+        "name": "Static Prison"
+      },
+      {
+        "quantity": 4,
+        "name": "Arid Mesa"
+      },
+      {
+        "quantity": 4,
+        "name": "Marsh Flats"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 3,
+        "name": "Sacred Foundry"
+      },
+      {
+        "quantity": 2,
+        "name": "Godless Shrine"
+      },
+      {
+        "quantity": 1,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Shadowy Backstreet"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 4,
+        "name": "Library of Alexandria"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 3,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 2,
+        "name": "Static Prison"
+      },
+      {
+        "quantity": 1,
+        "name": "Chthonian Nightmare"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/807b3b6d-5454-4882-8586-b4a500bfed11",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Jund (Lurrus)",
+    "main": [
+      {
+        "quantity": 3,
+        "name": "Wrenn and Six"
+      },
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 4,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 1,
+        "name": "Moonshadow"
+      },
+      {
+        "quantity": 1,
+        "name": "Nethergoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 1,
+        "name": "Demonic Tutor"
+      },
+      {
+        "quantity": 1,
+        "name": "Molten Collapse"
+      },
+      {
+        "quantity": 1,
+        "name": "Witherbloom Command"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Lightning Bolt"
+      },
+      {
+        "quantity": 2,
+        "name": "Once Upon a Time"
+      },
+      {
+        "quantity": 2,
+        "name": "Mishra's Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 4,
+        "name": "Verdant Catacombs"
+      },
+      {
+        "quantity": 2,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 2,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 2,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 2,
+        "name": "Wooded Foothills"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Raucous Theater"
+      },
+      {
+        "quantity": 1,
+        "name": "Stomping Ground"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 3,
+        "name": "Hexing Squelcher"
+      },
+      {
+        "quantity": 2,
+        "name": "Bloodchief's Thirst"
+      },
+      {
+        "quantity": 2,
+        "name": "Duress"
+      },
+      {
+        "quantity": 2,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 2,
+        "name": "Pyroclasm"
+      },
+      {
+        "quantity": 1,
+        "name": "Abrupt Decay"
+      },
+      {
+        "quantity": 1,
+        "name": "Mai, Scornful Striker"
+      },
+      {
+        "quantity": 1,
+        "name": "Sheoldred's Edict"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/837cba24-5696-429c-8291-b4a500c4c485",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "W-U-B-R-G",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 4,
+        "name": "Persistent Petitioners"
+      },
+      {
+        "quantity": 3,
+        "name": "Emrakul, the Aeons Torn"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 4,
+        "name": "Show and Tell"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 2,
+        "name": "Prismari Charm"
+      },
+      {
+        "quantity": 1,
+        "name": "Sink into Stupor // Soporific Springs"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 2,
+        "name": "Vexing Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Sneak Attack"
+      },
+      {
+        "quantity": 2,
+        "name": "Omniscience"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Scalding Tarn"
+      },
+      {
+        "quantity": 4,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 2,
+        "name": "Petrified Hamlet"
+      },
+      {
+        "quantity": 1,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Thundering Falls"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Consumed by History"
+      },
+      {
+        "quantity": 3,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 2,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 2,
+        "name": "Hexing Squelcher"
+      },
+      {
+        "quantity": 2,
+        "name": "Into the Flood Maw"
+      },
+      {
+        "quantity": 2,
+        "name": "Vexing Bauble"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/a18210ae-d1df-4acf-95a3-b4a500c5034b",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Mono-Red",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Broadside Bombardiers"
+      },
+      {
+        "quantity": 4,
+        "name": "Pyrogoyf"
+      },
+      {
+        "quantity": 2,
+        "name": "Fury"
+      },
+      {
+        "quantity": 2,
+        "name": "Hexing Squelcher"
+      },
+      {
+        "quantity": 2,
+        "name": "Magus of the Moon"
+      },
+      {
+        "quantity": 2,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 1,
+        "name": "Pinnacle Monk // Mystic Peak"
+      },
+      {
+        "quantity": 4,
+        "name": "Sundering Eruption // Volcanic Fissure"
+      },
+      {
+        "quantity": 2,
+        "name": "Shatterskull Smashing // Shatterskull, the Hammer Pass"
+      },
+      {
+        "quantity": 2,
+        "name": "Pyrokinesis"
+      },
+      {
+        "quantity": 4,
+        "name": "Chalice of the Void"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 3,
+        "name": "The One Ring"
+      },
+      {
+        "quantity": 4,
+        "name": "Blood Moon"
+      },
+      {
+        "quantity": 4,
+        "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+      },
+      {
+        "quantity": 10,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Great Furnace"
+      },
+      {
+        "quantity": 1,
+        "name": "Sokenzan, Crucible of Defiance"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Consumed by History"
+      },
+      {
+        "quantity": 4,
+        "name": "Roiling Vortex"
+      },
+      {
+        "quantity": 3,
+        "name": "Lightning Bolt"
+      },
+      {
+        "quantity": 3,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 1,
+        "name": "Ragavan, Nimble Pilferer"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/b388bbd6-7ded-4c8f-a89a-b4a500c3efd1",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Simic",
+    "main": [
+      {
+        "quantity": 3,
+        "name": "Karn, the Great Creator"
+      },
+      {
+        "quantity": 4,
+        "name": "Emrakul, the Aeons Torn"
+      },
+      {
+        "quantity": 4,
+        "name": "Nulldrifter"
+      },
+      {
+        "quantity": 4,
+        "name": "Slumbering Trudge"
+      },
+      {
+        "quantity": 4,
+        "name": "Sea Gate Restoration // Sea Gate, Reborn"
+      },
+      {
+        "quantity": 4,
+        "name": "Show and Tell"
+      },
+      {
+        "quantity": 4,
+        "name": "Stock Up"
+      },
+      {
+        "quantity": 3,
+        "name": "Green Sun's Zenith"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 4,
+        "name": "Fight Rigging"
+      },
+      {
+        "quantity": 4,
+        "name": "Omniscience"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 4,
+        "name": "Ugin's Labyrinth"
+      },
+      {
+        "quantity": 1,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Forest"
+      },
+      {
+        "quantity": 1,
+        "name": "Hedge Maze"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Aetherflux Reservoir"
+      },
+      {
+        "quantity": 1,
+        "name": "Ancestral Statue"
+      },
+      {
+        "quantity": 1,
+        "name": "Damping Sphere"
+      },
+      {
+        "quantity": 1,
+        "name": "Haywire Mite"
+      },
+      {
+        "quantity": 1,
+        "name": "Liquimetal Coating"
+      },
+      {
+        "quantity": 1,
+        "name": "Pestilent Cauldron // Restorative Burst"
+      },
+      {
+        "quantity": 1,
+        "name": "Phyrexian Metamorph"
+      },
+      {
+        "quantity": 1,
+        "name": "Pithing Needle"
+      },
+      {
+        "quantity": 1,
+        "name": "Portal to Phyrexia"
+      },
+      {
+        "quantity": 1,
+        "name": "Seat of the Synod"
+      },
+      {
+        "quantity": 1,
+        "name": "Sundering Titan"
+      },
+      {
+        "quantity": 1,
+        "name": "Surgical Metamorph"
+      },
+      {
+        "quantity": 1,
+        "name": "The One Ring"
+      },
+      {
+        "quantity": 1,
+        "name": "Tormod's Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Torpor Orb"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/ddbe3d3c-9bd9-4e47-873e-b4a500c6589e",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-13",
+    "name": "Mono-Red",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Fury"
+      },
+      {
+        "quantity": 4,
+        "name": "Zhao, the Moon Slayer"
+      },
+      {
+        "quantity": 2,
+        "name": "Magus of the Moon"
+      },
+      {
+        "quantity": 4,
+        "name": "Empty the Warrens"
+      },
+      {
+        "quantity": 4,
+        "name": "Shatterskull Smashing // Shatterskull, the Hammer Pass"
+      },
+      {
+        "quantity": 4,
+        "name": "Sundering Eruption // Volcanic Fissure"
+      },
+      {
+        "quantity": 4,
+        "name": "Manamorphose"
+      },
+      {
+        "quantity": 4,
+        "name": "Pyretic Ritual"
+      },
+      {
+        "quantity": 4,
+        "name": "Seething Song"
+      },
+      {
+        "quantity": 4,
+        "name": "Chalice of the Void"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 4,
+        "name": "Blood Moon"
+      },
+      {
+        "quantity": 1,
+        "name": "Dragon Typhoon"
+      },
+      {
+        "quantity": 5,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 4,
+        "name": "Scalding Tarn"
+      },
+      {
+        "quantity": 3,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Commercial District"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 2,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 2,
+        "name": "Magus of the Moon"
+      },
+      {
+        "quantity": 2,
+        "name": "Pyroclasm"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/025f02ee-86c9-47e1-8604-b4c900c1bc16",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Show and Tell",
+    "main": [
+      {
+        "quantity": 3,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 1,
+        "name": "Emrakul, the Aeons Torn"
+      },
+      {
+        "quantity": 1,
+        "name": "Saiba Syphoner"
+      },
+      {
+        "quantity": 4,
+        "name": "Show and Tell"
+      },
+      {
+        "quantity": 3,
+        "name": "Stock Up"
+      },
+      {
+        "quantity": 2,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 1,
+        "name": "Demonic Tutor"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Veil of Summer"
+      },
+      {
+        "quantity": 3,
+        "name": "Vampiric Tutor"
+      },
+      {
+        "quantity": 2,
+        "name": "Mystical Tutor"
+      },
+      {
+        "quantity": 1,
+        "name": "Dig Through Time"
+      },
+      {
+        "quantity": 1,
+        "name": "Sublime Epiphany"
+      },
+      {
+        "quantity": 1,
+        "name": "Waterlogged Teachings // Inundated Archive"
+      },
+      {
+        "quantity": 3,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 4,
+        "name": "Omniscience"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 3,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 3,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 2,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 1,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Hedge Maze"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Mistrise Village"
+      },
+      {
+        "quantity": 1,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 1,
+        "name": "Scalding Tarn"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Carpet of Flowers"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 3,
+        "name": "Leyline of Sanctity"
+      },
+      {
+        "quantity": 2,
+        "name": "Abrupt Decay"
+      },
+      {
+        "quantity": 1,
+        "name": "Culling Ritual"
+      },
+      {
+        "quantity": 1,
+        "name": "Flusterstorm"
+      },
+      {
+        "quantity": 1,
+        "name": "Krosan Grip"
+      },
+      {
+        "quantity": 1,
+        "name": "Toxic Deluge"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/036b1d2e-b198-4e37-a611-b4c900eede3a",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Simic Nadu",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Badgermole Cub"
+      },
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Delighted Halfling"
+      },
+      {
+        "quantity": 4,
+        "name": "Nadu, Winged Wisdom"
+      },
+      {
+        "quantity": 1,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 1,
+        "name": "Craterhoof Behemoth"
+      },
+      {
+        "quantity": 1,
+        "name": "Scythecat Cub"
+      },
+      {
+        "quantity": 1,
+        "name": "Springheart Nantuko"
+      },
+      {
+        "quantity": 4,
+        "name": "Green Sun's Zenith"
+      },
+      {
+        "quantity": 4,
+        "name": "Natural Order"
+      },
+      {
+        "quantity": 4,
+        "name": "Once Upon a Time"
+      },
+      {
+        "quantity": 2,
+        "name": "Legolas's Quick Reflexes"
+      },
+      {
+        "quantity": 4,
+        "name": "Lightning Greaves"
+      },
+      {
+        "quantity": 5,
+        "name": "Forest"
+      },
+      {
+        "quantity": 4,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 4,
+        "name": "Verdant Catacombs"
+      },
+      {
+        "quantity": 3,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Hedge Maze"
+      },
+      {
+        "quantity": 1,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Windswept Heath"
+      },
+      {
+        "quantity": 1,
+        "name": "Wooded Foothills"
+      },
+      {
+        "quantity": 1,
+        "name": "Yavimaya, Cradle of Growth"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Arachnogenesis"
+      },
+      {
+        "quantity": 3,
+        "name": "Carpet of Flowers"
+      },
+      {
+        "quantity": 3,
+        "name": "Disruptor Flute"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 1,
+        "name": "Endurance"
+      },
+      {
+        "quantity": 1,
+        "name": "Vexing Bauble"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/25e777cd-1dd5-4d1c-91c5-b4c900fc33f2",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "DImir Reanimator",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 2,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 1,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 4,
+        "name": "Reanimate"
+      },
+      {
+        "quantity": 2,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 2,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Entomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 1,
+        "name": "Mystical Tutor"
+      },
+      {
+        "quantity": 4,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 3,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 1,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 3,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 2,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 2,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 2,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 1,
+        "name": "Unable to Scream"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/40896aac-1477-45bd-ac0c-b4c900f73880",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Dimir Reanimator",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 1,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 1,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 1,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 4,
+        "name": "Reanimate"
+      },
+      {
+        "quantity": 2,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 1,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Entomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 2,
+        "name": "Mystical Tutor"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 2,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 2,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 1,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Scalding Tarn"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 2,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 2,
+        "name": "Grief"
+      },
+      {
+        "quantity": 2,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 2,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 2,
+        "name": "Unable to Scream"
+      },
+      {
+        "quantity": 1,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/6a0df2d9-4450-4158-842d-b4c901006e58",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "DImir Reanimator",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 3,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 3,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 1,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 4,
+        "name": "Reanimate"
+      },
+      {
+        "quantity": 3,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 2,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Entomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 4,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 3,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 2,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 2,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 2,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 2,
+        "name": "Unable to Scream"
+      },
+      {
+        "quantity": 1,
+        "name": "Brazen Borrower // Petty Theft"
+      },
+      {
+        "quantity": 1,
+        "name": "Grief"
+      },
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 1,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 1,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 1,
+        "name": "Thoughtseize"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/932027f1-bcb3-4d84-b7aa-b4c900fd24a2",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Sneak and Show",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 3,
+        "name": "Emrakul, the Aeons Torn"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 4,
+        "name": "Show and Tell"
+      },
+      {
+        "quantity": 4,
+        "name": "Stock Up"
+      },
+      {
+        "quantity": 2,
+        "name": "Preordain"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 1,
+        "name": "Sink into Stupor // Soporific Springs"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 2,
+        "name": "Vexing Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Sneak Attack"
+      },
+      {
+        "quantity": 2,
+        "name": "Omniscience"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Scalding Tarn"
+      },
+      {
+        "quantity": 3,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 1,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Petrified Hamlet"
+      },
+      {
+        "quantity": 1,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 1,
+        "name": "Thundering Falls"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Consumed by History"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 2,
+        "name": "Blood Moon"
+      },
+      {
+        "quantity": 2,
+        "name": "Hexing Squelcher"
+      },
+      {
+        "quantity": 2,
+        "name": "Into the Flood Maw"
+      },
+      {
+        "quantity": 1,
+        "name": "Petrified Hamlet"
+      },
+      {
+        "quantity": 1,
+        "name": "Vexing Bauble"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/94627c2d-33c6-459a-a50e-b4c900f82e58",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Mono-White Tokens",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+      },
+      {
+        "quantity": 4,
+        "name": "Cottontail Caretaker"
+      },
+      {
+        "quantity": 4,
+        "name": "Guide of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Ocelot Pride"
+      },
+      {
+        "quantity": 4,
+        "name": "Solitude"
+      },
+      {
+        "quantity": 4,
+        "name": "Starfield Shepherd"
+      },
+      {
+        "quantity": 2,
+        "name": "Phelia, Exuberant Shepherd"
+      },
+      {
+        "quantity": 2,
+        "name": "Witch Enchanter // Witch-Blessed Meadow"
+      },
+      {
+        "quantity": 1,
+        "name": "Kirol, Attentive First-Year"
+      },
+      {
+        "quantity": 1,
+        "name": "Voice of Victory"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 3,
+        "name": "The One Ring"
+      },
+      {
+        "quantity": 18,
+        "name": "Plains"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Abandoned Air Temple"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Disruptor Flute"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 3,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 2,
+        "name": "Fragment Reality"
+      },
+      {
+        "quantity": 2,
+        "name": "Voice of Victory"
+      },
+      {
+        "quantity": 1,
+        "name": "The One Ring"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/b27a32f0-f61f-496a-a224-b4c8012b927e",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Mardu Energy (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+      },
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Guide of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Ocelot Pride"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 3,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 3,
+        "name": "Juggernaut Peddler"
+      },
+      {
+        "quantity": 4,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 2,
+        "name": "Galvanic Discharge"
+      },
+      {
+        "quantity": 3,
+        "name": "Goblin Bombardment"
+      },
+      {
+        "quantity": 2,
+        "name": "Static Prison"
+      },
+      {
+        "quantity": 4,
+        "name": "Arid Mesa"
+      },
+      {
+        "quantity": 4,
+        "name": "Marsh Flats"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 2,
+        "name": "Godless Shrine"
+      },
+      {
+        "quantity": 2,
+        "name": "Sacred Foundry"
+      },
+      {
+        "quantity": 1,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Elegant Parlor"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Temple Garden"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 4,
+        "name": "Library of Alexandria"
+      },
+      {
+        "quantity": 3,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 2,
+        "name": "Exorcise"
+      },
+      {
+        "quantity": 2,
+        "name": "Ghost Vacuum"
+      },
+      {
+        "quantity": 1,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 1,
+        "name": "Juggernaut Peddler"
+      },
+      {
+        "quantity": 1,
+        "name": "Prismatic Ending"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/bbe49405-8a27-450e-8ff5-b4c900eb5077",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "DImir Reanimator",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Hydroponics Architect"
+      },
+      {
+        "quantity": 2,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 1,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 4,
+        "name": "Reanimate"
+      },
+      {
+        "quantity": 2,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 2,
+        "name": "Treasure Cruise"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Daze"
+      },
+      {
+        "quantity": 4,
+        "name": "Entomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 1,
+        "name": "Mystical Tutor"
+      },
+      {
+        "quantity": 4,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 3,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 1,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Psychic Frog"
+      },
+      {
+        "quantity": 4,
+        "name": "Stern Scolding"
+      },
+      {
+        "quantity": 2,
+        "name": "Harbinger of the Seas"
+      },
+      {
+        "quantity": 2,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 1,
+        "name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+      },
+      {
+        "quantity": 1,
+        "name": "Unable to Scream"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/bdbd91b4-793d-4286-9389-b4c900a4d813",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Sneak and Show",
+    "main": [
+      {
+        "quantity": 3,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 3,
+        "name": "Emrakul, the Aeons Torn"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 4,
+        "name": "Show and Tell"
+      },
+      {
+        "quantity": 4,
+        "name": "Stock Up"
+      },
+      {
+        "quantity": 2,
+        "name": "Preordain"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 1,
+        "name": "Sink into Stupor // Soporific Springs"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 2,
+        "name": "Vexing Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Sneak Attack"
+      },
+      {
+        "quantity": 3,
+        "name": "Omniscience"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Scalding Tarn"
+      },
+      {
+        "quantity": 3,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 1,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Petrified Hamlet"
+      },
+      {
+        "quantity": 1,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 1,
+        "name": "Thundering Falls"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Pyroclasm"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 2,
+        "name": "Blood Moon"
+      },
+      {
+        "quantity": 2,
+        "name": "Hexing Squelcher"
+      },
+      {
+        "quantity": 2,
+        "name": "Into the Flood Maw"
+      },
+      {
+        "quantity": 1,
+        "name": "Petrified Hamlet"
+      },
+      {
+        "quantity": 1,
+        "name": "Vexing Bauble"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/c1856312-7b9f-4d83-b88e-b4c9008dc959",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Mono-White Stompy",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Sage of the Skies"
+      },
+      {
+        "quantity": 4,
+        "name": "Solitude"
+      },
+      {
+        "quantity": 4,
+        "name": "Stoneforge Mystic"
+      },
+      {
+        "quantity": 4,
+        "name": "Witch Enchanter // Witch-Blessed Meadow"
+      },
+      {
+        "quantity": 3,
+        "name": "Jennifer Walters // The Sensational She-Hulk"
+      },
+      {
+        "quantity": 2,
+        "name": "Anointed Peacekeeper"
+      },
+      {
+        "quantity": 1,
+        "name": "Boromir, Warden of the Tower"
+      },
+      {
+        "quantity": 1,
+        "name": "Skyclave Apparition"
+      },
+      {
+        "quantity": 4,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 1,
+        "name": "Razorgrass Ambush // Razorgrass Field"
+      },
+      {
+        "quantity": 4,
+        "name": "Chalice of the Void"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 4,
+        "name": "The One Ring"
+      },
+      {
+        "quantity": 1,
+        "name": "Batterskull"
+      },
+      {
+        "quantity": 1,
+        "name": "Essence Reliquary"
+      },
+      {
+        "quantity": 1,
+        "name": "Kaldra Compleat"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Branchloft Pathway // Boulderloft Pathway"
+      },
+      {
+        "quantity": 4,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Library of Alexandria"
+      },
+      {
+        "quantity": 1,
+        "name": "Snow-Covered Plains"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Winds of Abandon"
+      },
+      {
+        "quantity": 3,
+        "name": "Thalia, Guardian of Thraben"
+      },
+      {
+        "quantity": 2,
+        "name": "Rest in Peace"
+      },
+      {
+        "quantity": 2,
+        "name": "Skyclave Apparition"
+      },
+      {
+        "quantity": 1,
+        "name": "Containment Priest"
+      },
+      {
+        "quantity": 1,
+        "name": "Invasion of Gobakhan // Lightshield Array"
+      },
+      {
+        "quantity": 1,
+        "name": "Meteor Sword"
+      },
+      {
+        "quantity": 1,
+        "name": "Umezawa's Jitte"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/ca3d7e1a-599e-4a48-ab31-b4c80102ab0a",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Rakdos Shredder (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Dragon's Rage Channeler"
+      },
+      {
+        "quantity": 4,
+        "name": "Moonshadow"
+      },
+      {
+        "quantity": 4,
+        "name": "Super Shredder"
+      },
+      {
+        "quantity": 3,
+        "name": "Ragavan, Nimble Pilferer"
+      },
+      {
+        "quantity": 2,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 4,
+        "name": "Lightning Bolt"
+      },
+      {
+        "quantity": 2,
+        "name": "Pyrokinesis"
+      },
+      {
+        "quantity": 4,
+        "name": "Cori-Steel Cutter"
+      },
+      {
+        "quantity": 4,
+        "name": "Mishra's Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Urza's Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 4,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 2,
+        "name": "Marsh Flats"
+      },
+      {
+        "quantity": 1,
+        "name": "Mountain"
+      },
+      {
+        "quantity": 1,
+        "name": "Raucous Theater"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 3,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 2,
+        "name": "Molten Collapse"
+      },
+      {
+        "quantity": 2,
+        "name": "Pyrokinesis"
+      },
+      {
+        "quantity": 2,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 2,
+        "name": "Tormod's Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Ghost Vacuum"
+      },
+      {
+        "quantity": 1,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 1,
+        "name": "Ragavan, Nimble Pilferer"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/d47e7073-6e1b-40f8-a486-b4c8016dcd7e",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Mono-Black Shredder (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Dauthi Voidwalker"
+      },
+      {
+        "quantity": 4,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 4,
+        "name": "Moonshadow"
+      },
+      {
+        "quantity": 4,
+        "name": "Nethergoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Super Shredder"
+      },
+      {
+        "quantity": 2,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 4,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 4,
+        "name": "Dark Ritual"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Mishra's Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Urza's Bauble"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 3,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 3,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 2,
+        "name": "Marsh Flats"
+      },
+      {
+        "quantity": 1,
+        "name": "Overgrown Tomb"
+      },
+      {
+        "quantity": 1,
+        "name": "Underground Mortuary"
+      },
+      {
+        "quantity": 1,
+        "name": "Verdant Catacombs"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 3,
+        "name": "Zero Point Ballad"
+      },
+      {
+        "quantity": 2,
+        "name": "Assassin's Trophy"
+      },
+      {
+        "quantity": 2,
+        "name": "Bloodchief's Thirst"
+      },
+      {
+        "quantity": 2,
+        "name": "Duress"
+      },
+      {
+        "quantity": 1,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 1,
+        "name": "Snuff Out"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/e97883cc-7eb9-4c42-86f5-b4c9004b0a9b",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Mono-Black Marley",
+    "main": [
+      {
+        "quantity": 2,
+        "name": "Sorin, Imperious Bloodlord"
+      },
+      {
+        "quantity": 4,
+        "name": "Barrowgoyf"
+      },
+      {
+        "quantity": 4,
+        "name": "Boggart Trawler // Boggart Bog"
+      },
+      {
+        "quantity": 4,
+        "name": "Grief"
+      },
+      {
+        "quantity": 4,
+        "name": "Overlord of the Balemurk"
+      },
+      {
+        "quantity": 4,
+        "name": "Saint Elenda"
+      },
+      {
+        "quantity": 3,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 3,
+        "name": "Troll of Khazad-dûm"
+      },
+      {
+        "quantity": 4,
+        "name": "Beseech the Mirror"
+      },
+      {
+        "quantity": 1,
+        "name": "Demonic Tutor"
+      },
+      {
+        "quantity": 1,
+        "name": "Living End"
+      },
+      {
+        "quantity": 4,
+        "name": "Dark Ritual"
+      },
+      {
+        "quantity": 4,
+        "name": "Chalice of the Void"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 1,
+        "name": "The One Ring"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 4,
+        "name": "Vault of Whispers"
+      },
+      {
+        "quantity": 1,
+        "name": "Urborg, Tomb of Yawgmoth"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Leyline of Sanctity"
+      },
+      {
+        "quantity": 3,
+        "name": "Faerie Macabre"
+      },
+      {
+        "quantity": 2,
+        "name": "Sheoldred's Edict"
+      },
+      {
+        "quantity": 2,
+        "name": "Sorin, Imperious Bloodlord"
+      },
+      {
+        "quantity": 2,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 1,
+        "name": "Tendrils of Agony"
+      },
+      {
+        "quantity": 1,
+        "name": "Toxic Deluge"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/f2932fd2-4c9e-4e3b-aade-b4c801893446",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Mardu Energy (Lurrus)",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+      },
+      {
+        "quantity": 4,
+        "name": "Amped Raptor"
+      },
+      {
+        "quantity": 4,
+        "name": "Guide of Souls"
+      },
+      {
+        "quantity": 4,
+        "name": "Ocelot Pride"
+      },
+      {
+        "quantity": 4,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 3,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 3,
+        "name": "Juggernaut Peddler"
+      },
+      {
+        "quantity": 4,
+        "name": "Swords to Plowshares"
+      },
+      {
+        "quantity": 2,
+        "name": "Galvanic Discharge"
+      },
+      {
+        "quantity": 3,
+        "name": "Goblin Bombardment"
+      },
+      {
+        "quantity": 2,
+        "name": "Static Prison"
+      },
+      {
+        "quantity": 4,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 4,
+        "name": "Strip Mine"
+      },
+      {
+        "quantity": 3,
+        "name": "Marsh Flats"
+      },
+      {
+        "quantity": 2,
+        "name": "Flooded Strand"
+      },
+      {
+        "quantity": 2,
+        "name": "Godless Shrine"
+      },
+      {
+        "quantity": 2,
+        "name": "Sacred Foundry"
+      },
+      {
+        "quantity": 2,
+        "name": "Windswept Heath"
+      },
+      {
+        "quantity": 1,
+        "name": "Blood Crypt"
+      },
+      {
+        "quantity": 1,
+        "name": "Elegant Parlor"
+      },
+      {
+        "quantity": 1,
+        "name": "Plains"
+      },
+      {
+        "quantity": 1,
+        "name": "Temple Garden"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 4,
+        "name": "Library of Alexandria"
+      },
+      {
+        "quantity": 3,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 2,
+        "name": "Prismatic Ending"
+      },
+      {
+        "quantity": 1,
+        "name": "Chthonian Nightmare"
+      },
+      {
+        "quantity": 1,
+        "name": "Deathrite Shaman"
+      },
+      {
+        "quantity": 1,
+        "name": "Exorcise"
+      },
+      {
+        "quantity": 1,
+        "name": "Ghost Vacuum"
+      },
+      {
+        "quantity": 1,
+        "name": "Juggernaut Peddler"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/f9a369ce-f6ac-4e2e-a64a-b4c901170608",
+    "event": "Meta Confluence: Open #8",
+    "date": "2026-09-18",
+    "name": "Dimir Doomsday (Lurrus)",
+    "main": [
+      {
+        "quantity": 2,
+        "name": "Orcish Bowmasters"
+      },
+      {
+        "quantity": 2,
+        "name": "Thassa's Oracle"
+      },
+      {
+        "quantity": 1,
+        "name": "Narcomoeba"
+      },
+      {
+        "quantity": 4,
+        "name": "Doomsday"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 1,
+        "name": "Demonic Tutor"
+      },
+      {
+        "quantity": 1,
+        "name": "Unearth"
+      },
+      {
+        "quantity": 4,
+        "name": "Brainstorm"
+      },
+      {
+        "quantity": 4,
+        "name": "Dark Ritual"
+      },
+      {
+        "quantity": 4,
+        "name": "Fatal Push"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Mystical Tutor"
+      },
+      {
+        "quantity": 2,
+        "name": "Daze"
+      },
+      {
+        "quantity": 1,
+        "name": "Consider"
+      },
+      {
+        "quantity": 1,
+        "name": "Thought Scour"
+      },
+      {
+        "quantity": 2,
+        "name": "Vexing Bauble"
+      },
+      {
+        "quantity": 1,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 4,
+        "name": "Darkslick Shores"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 3,
+        "name": "Watery Grave"
+      },
+      {
+        "quantity": 1,
+        "name": "Bloodstained Mire"
+      },
+      {
+        "quantity": 1,
+        "name": "Cavern of Souls"
+      },
+      {
+        "quantity": 1,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 1,
+        "name": "Swamp"
+      },
+      {
+        "quantity": 1,
+        "name": "Undercity Sewers"
+      },
+      {
+        "quantity": 1,
+        "name": "Verdant Catacombs"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 1,
+        "name": "Lurrus of the Dream-Den"
+      },
+      {
+        "quantity": 2,
+        "name": "Bloodchief's Thirst"
+      },
+      {
+        "quantity": 2,
+        "name": "Force of Negation"
+      },
+      {
+        "quantity": 2,
+        "name": "Glistening Deluge"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 2,
+        "name": "Thoughtseize"
+      },
+      {
+        "quantity": 1,
+        "name": "Duress"
+      },
+      {
+        "quantity": 1,
+        "name": "Flusterstorm"
+      },
+      {
+        "quantity": 1,
+        "name": "Serum Snare"
+      },
+      {
+        "quantity": 1,
+        "name": "Vexing Bauble"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/02013776-de83-4443-9daa-b4b400c9baaa",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-28",
+    "name": "W-U-B-R-G",
+    "main": [
+      {
+        "quantity": 4,
+        "name": "Atraxa, Grand Unifier"
+      },
+      {
+        "quantity": 4,
+        "name": "Anguished Recollection"
+      },
+      {
+        "quantity": 4,
+        "name": "Show and Tell"
+      },
+      {
+        "quantity": 4,
+        "name": "Stock Up"
+      },
+      {
+        "quantity": 2,
+        "name": "Consumed by History"
+      },
+      {
+        "quantity": 4,
+        "name": "Force of Will"
+      },
+      {
+        "quantity": 4,
+        "name": "Chalice of the Void"
+      },
+      {
+        "quantity": 4,
+        "name": "Chrome Mox"
+      },
+      {
+        "quantity": 4,
+        "name": "Blood Moon"
+      },
+      {
+        "quantity": 4,
+        "name": "Sneak Attack"
+      },
+      {
+        "quantity": 2,
+        "name": "Omniscience"
+      },
+      {
+        "quantity": 4,
+        "name": "Ancient Tomb"
+      },
+      {
+        "quantity": 4,
+        "name": "Polluted Delta"
+      },
+      {
+        "quantity": 4,
+        "name": "Steam Vents"
+      },
+      {
+        "quantity": 3,
+        "name": "Misty Rainforest"
+      },
+      {
+        "quantity": 3,
+        "name": "Spirebluff Canal"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Pyroclasm"
+      },
+      {
+        "quantity": 3,
+        "name": "Consign to Memory"
+      },
+      {
+        "quantity": 3,
+        "name": "Damping Sphere"
+      },
+      {
+        "quantity": 2,
+        "name": "Lithomantic Barrage"
+      },
+      {
+        "quantity": 2,
+        "name": "Surgical Extraction"
+      },
+      {
+        "quantity": 1,
+        "name": "Abrade"
+      }
+    ]
+  },
+  {
+    "source": "https://melee.gg/Decklist/View/210e6f33-85e7-48c8-b832-b4b400c80921",
+    "event": "Weekday Night Magic",
+    "date": "2026-08-28",
+    "name": "U-B-R-G",
+    "main": [
+      {
+        "quantity": 1,
+        "name": "Fae of Wishes // Granted"
+      },
+      {
+        "quantity": 4,
+        "name": "Ponder"
+      },
+      {
+        "quantity": 2,
+        "name": "Flow State"
+      },
+      {
+        "quantity": 2,
+        "name": "Hidden Strings"
+      },
+      {
+        "quantity": 2,
+        "name": "Pore Over the Pages"
+      },
+      {
+        "quantity": 1,
+        "name": "Demonic Tutor"
+      },
+      {
+        "quantity": 1,
+        "name": "Tome Scour"
+      },
+      {
+        "quantity": 1,
+        "name": "Wish"
+      },
+      {
+        "quantity": 4,
+        "name": "Crop Rotation"
+      },
+      {
+        "quantity": 4,
+        "name": "Frantic Search"
+      },
+      {
+        "quantity": 4,
+        "name": "Stifle"
+      },
+      {
+        "quantity": 3,
+        "name": "Consign to Memory"
+      },
+      {
+        "quantity": 2,
+        "name": "Vampiric Tutor"
+      },
+      {
+        "quantity": 1,
+        "name": "Into the Flood Maw"
+      },
+      {
+        "quantity": 1,
+        "name": "Mystical Tutor"
+      },
+      {
+        "quantity": 4,
+        "name": "Exploration"
+      },
+      {
+        "quantity": 3,
+        "name": "Underworld Breach"
+      },
+      {
+        "quantity": 4,
+        "name": "Lotus Field"
+      },
+      {
+        "quantity": 4,
+        "name": "Starting Town"
+      },
+      {
+        "quantity": 3,
+        "name": "Deserted Temple"
+      },
+      {
+        "quantity": 3,
+        "name": "Mana Confluence"
+      },
+      {
+        "quantity": 2,
+        "name": "Island"
+      },
+      {
+        "quantity": 1,
+        "name": "Boseiju, Who Endures"
+      },
+      {
+        "quantity": 1,
+        "name": "Breeding Pool"
+      },
+      {
+        "quantity": 1,
+        "name": "Otawara, Soaring City"
+      },
+      {
+        "quantity": 1,
+        "name": "Steam Vents"
+      }
+    ],
+    "sideboard": [
+      {
+        "quantity": 4,
+        "name": "Leyline of Sanctity"
+      },
+      {
+        "quantity": 3,
+        "name": "Veil of Summer"
+      },
+      {
+        "quantity": 2,
+        "name": "Consumed by History"
+      },
+      {
+        "quantity": 2,
+        "name": "Into the Flood Maw"
+      },
+      {
+        "quantity": 1,
+        "name": "Bojuka Bog"
+      },
+      {
+        "quantity": 1,
+        "name": "Jace, Wielder of Mysteries"
+      },
+      {
+        "quantity": 1,
+        "name": "Tendrils of Agony"
+      },
+      {
+        "quantity": 1,
+        "name": "Underworld Breach"
+      }
+    ]
+  }
+]
