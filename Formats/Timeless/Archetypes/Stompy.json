@@ -42,6 +42,12 @@
       "Cards": [
         "Eldrazi Temple"
       ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Empty the Warrens"
+      ]
     }
   ]
 }
