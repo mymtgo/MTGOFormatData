@@ -1,0 +1,26 @@
+{
+  "Name": "Tempo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tolarian Terror", "Eddymurk Crab"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Flow State", "Stock Up", "Into the Flood Maw"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hearth Elemental"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Halo Forager"]
+    }
+  ]
+}
