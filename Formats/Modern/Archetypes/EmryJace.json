@@ -1,0 +1,22 @@
+{
+  "Name": "EmryJaceCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mox Amber"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jace, Wielder of Mysteries"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Song of Creation"]
+    }
+  ]
+}
