@@ -1,0 +1,24 @@
+{
+    "Name": "Pestilence Food",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Pestilence"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Cauldron Familiar"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Khalni Garden"
+            ]
+        }
+    ]
+}

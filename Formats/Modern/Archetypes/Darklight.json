@@ -1,0 +1,22 @@
+{
+  "Name": "Darklight",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Darklight Phoenix"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eyetwitch"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Spymaster's Vault",
+        "Flare of Malice",
+        "Malevolent Rumble"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Humility Prison",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Humility"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Ensnaring Bridge"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Phyrexian Furnace"
+            ]
+        }
+    ]
+}

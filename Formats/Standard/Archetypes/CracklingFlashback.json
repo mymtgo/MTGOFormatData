@@ -1,0 +1,18 @@
+{
+    "Name": "CracklingFlashback",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Ral, Crackling Wit"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Flashback"
+            ]
+        }
+    ]
+}

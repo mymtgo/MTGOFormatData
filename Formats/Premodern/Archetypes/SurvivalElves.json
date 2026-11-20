@@ -1,0 +1,24 @@
+{
+    "Name": "Survival Elves",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Survival of the Fittest"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wirewood Symbiote"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Multani's Acolyte"
+            ]
+        }
+    ]
+}

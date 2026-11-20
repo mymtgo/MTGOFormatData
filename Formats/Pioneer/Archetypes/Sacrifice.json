@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Mayhem Devil"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Mayhem Devil", "The Sackville-Bagginses"]
     }
   ]
 }

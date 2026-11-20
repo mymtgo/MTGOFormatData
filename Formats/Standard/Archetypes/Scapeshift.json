@@ -1,0 +1,18 @@
+{
+    "Name": "Scapeshift",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Scapeshift"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lumra, Bellow of the Woods"
+            ]
+        }
+    ]
+}

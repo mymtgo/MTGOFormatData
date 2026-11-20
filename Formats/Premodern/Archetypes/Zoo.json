@@ -1,0 +1,24 @@
+{
+    "Name": "Zoo",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Wild Mongrel"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Call of the Herd"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Lightning Bolt"
+            ]
+        }
+    ]
+}
