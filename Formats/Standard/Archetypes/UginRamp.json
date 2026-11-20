@@ -1,0 +1,14 @@
+{
+  "Name": "UginRamp",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ugin, Eye of the Storms"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Emrakul, the Exigent Doom", "Sire of Seven Deaths", "Hedron Archive", "Mazemind Tome"]
+    }
+  ]
+}

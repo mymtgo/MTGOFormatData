@@ -1,0 +1,18 @@
+{
+  "Name": "JaceControl",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Theorist, Jace Beleren"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Countersculpt", "Jace's Machinations", "No More Lies", "Day of Judgment"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Momo, Friendly Flier"]
+    }
+  ]
+}
