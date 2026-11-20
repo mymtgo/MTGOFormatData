@@ -4,15 +4,72 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["The Theorist, Jace Beleren"]
+      "Cards": [
+        "The Theorist, Jace Beleren"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Countersculpt", "Jace's Machinations", "No More Lies", "Day of Judgment"]
+      "Cards": [
+        "Countersculpt",
+        "Jace's Machinations",
+        "No More Lies",
+        "Day of Judgment"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Momo, Friendly Flier"]
+      "Cards": [
+        "Momo, Friendly Flier"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Professor Dellian Fel"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Requiting Hex"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Rakshasa's Bargain"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Maelstrom Pulse"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Bitter Triumph"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Shiko, Paragon of the Way"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Jeskai Revelation"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Caretaker's Talent"
+      ]
     }
   ]
 }
